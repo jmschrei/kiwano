@@ -18,20 +18,22 @@ Kiwano can be installed via
 pip install kiwano
 ```
 
-or downloaded as a zip file from here.
+This will download both the command line tool, which can be called simply with `kiwano`, and the Python package which can be imported into your own Python code.
+
+If you want the example data provided here, you may also wish to download this repository directly.
 
 ### Command Line Kiwano
 
 Kiwano can be run on the command line with the following signature:
 
 ```
-usage: kiwano.py [-h] -s SIMILARITIES -n NAMES [-v] [-o OUTPUT] [-r OUTPUTR]
-                 [--include_biosamples INCLUDE_CELLTYPES]
-                 [--include_assays INCLUDE_ASSAYS]
-                 [--include_experiments INCLUDE_EXPERIMENTS]
-                 [--exclude_biosamples EXCLUDE_CELLTYPES]
-                 [--exclude_assays EXCLUDE_ASSAYS]
-                 [--exclude_experiments EXCLUDE_EXPERIMENTS]
+usage: kiwano [-h] -s SIMILARITIES -n NAMES [-v] [-o OUTPUT] [-r OUTPUTR]
+              [--include_biosamples INCLUDE_CELLTYPES]
+              [--include_assays INCLUDE_ASSAYS]
+              [--include_experiments INCLUDE_EXPERIMENTS]
+              [--exclude_biosamples EXCLUDE_CELLTYPES]
+              [--exclude_assays EXCLUDE_ASSAYS]
+              [--exclude_experiments EXCLUDE_EXPERIMENTS]
 
 Kiwano is a tool that prioritizes experiments based on minimizing redundancy.
 
