@@ -1,0 +1,109 @@
+#!/usr/bin/env python
+# kiwano
+# Author: Jacob Schreiber <jmschreiber91@gmail.com>
+
+import sys
+import numpy
+import argparse
+
+from kiwano import kiwano
+
+parser = argparse.ArgumentParser(description="""Kiwano is a tool that
+	prioritizes experiments based on minimizing redundancy.""")
+parser.add_argument("-s", "--similarities", dest='similarities', type=str, 
+	required=True, help="""The filename of the similarity matrix. This 
+	matrix should be a non-negative symmetric matrix in either .tsv, .npy, 
+	or .npz format, where each row/column is the corresponding value in 
+	the names file.""")
+parser.add_argument("-n", "--names", dest='names', type=str, required=True, 
+	help="""The filename of the names file. Each row in this file should 
+		be the name of the biosample followed by the name of the assay, 
+		separated by tabs. There should be one name for each row in the 
+		similarity matrix.""")
+parser.add_argument("-v", "--verbose", dest='verbose', action='store_true',
+	default=False, help="""Whether to display a progress bar.""")
+parser.add_argument("-o", "--output", dest='output', type=str, default=None,
+	help="""The filename that the ranked experiments should be output to.""")
+parser.add_argument("-r", "--output_ranking", dest='outputr', type=str,
+	default=None, help="""The filename that the ranking should be output 
+	to.""")
+parser.add_argument("--include_biosamples", dest='include_celltypes', 
+	type=str, default=None, help="""The filename of a one column file 
+	where each row is the name of a biosample that should be included 
+	in the selection. All other biosamples are discarded.""")
+parser.add_argument("--include_assays", dest='include_assays', type=str,
+	default=None, help="""The filename of a one column file where each row 
+	is the name  of an assay that should be included in the selection. All 
+	other assays are discarded.""")
+parser.add_argument("--include_experiments", dest='include_experiments', 
+	type=str, default=None, help="""The filename of a two column file 
+	where each row has the name of a specific experiment to include. 
+	All other experiments are discarded.""")
+parser.add_argument("--exclude_biosamples", dest='exclude_celltypes', 
+	type=str, default=None, help="""The filename of a one column file 
+	where each row is the name of a biosample that should be excluded 
+	from the selection. All other biosamples are included.""")
+parser.add_argument("--exclude_assays", dest='exclude_assays', type=str,
+	default=None, help="""The filename of a one column file where each 
+	row is the name of an assay that should be excluded from the selection. 
+	All other assays are included.""")
+parser.add_argument("--exclude_experiments", dest='exclude_experiments', 
+	type=str, default=None, help="""The filename of a two column file where 
+	each row has the name of a specific experiment to exclude. All other 
+	experiments are included.""")
+parser = parser.parse_args()
+
+if parser.similarities.endswith('.tsv'):
+	similarities = numpy.loadtxt(parser.similarities, delimiter='\t', dtype='float64')
+elif parser.similarities.endswith('.npy'):
+	similarities = numpy.load(parser.similarities)
+elif parser.similarities.endswith('.npz'):
+	similarities = numpy.load(parser.similarities)['arr_0']
+else:
+	raise ValueError("Similarities file must be either tab separated (.tsv) or numpy (.npy or .npz) formatted.")
+
+names = numpy.loadtxt(parser.names, delimiter='\t', dtype=str)
+idx = numpy.ones(similarities.shape[0], dtype=bool)
+
+if parser.include_celltypes is not None:
+	include_celltypes = numpy.loadtxt(parser.include_celltypes, delimiter='\t', dtype=str)
+	idx = idx & numpy.isin(names[:,0], include_celltypes)
+
+if parser.include_assays is not None:
+	include_assays = numpy.loadtxt(parser.include_assays, delimiter='\t', dtype=str)
+	idx = idx & numpy.isin(names[:,1], include_assays)
+
+if parser.include_experiments is not None:
+	include_experiments = numpy.loadtxt(parser.include_experiments, delimiter='\t', dtype=str)
+	idx = idx & numpy.isin(names[:,0], include_experiments[:,0]) & numpy.isin(names[:,1], include_experiments[:,1])
+
+if parser.exclude_celltypes is not None:
+	exclude_celltypes = numpy.loadtxt(parser.exclude_celltypes, delimiter='\t', dtype=str)
+	idx = idx & ~numpy.isin(names[:,0], exclude_celltypes)
+
+if parser.exclude_assays is not None:
+	exclude_assays = numpy.loadtxt(parser.exclude_assays, delimiter='\t', dtype=str)
+	idx = idx & ~numpy.isin(names[:,1], exclude_assays)
+
+if parser.exclude_experiments is not None:
+	exclude_experiments = numpy.loadtxt(parser.exclude_experiments, delimiter='\t', dtype=str)
+	idx = idx & ~(numpy.isin(names[:,0], exclude_experiments[:,0]) & numpy.isin(names[:,1], exclude_experiments[:,1]))
+
+if idx.sum() != idx.shape[0]:
+	similarities = similarities[idx][:, idx]
+
+names = names[idx]
+
+ranked_names, ranking = kiwano(similarities, names, verbose=parser.verbose)
+
+if parser.output:
+	with open(parser.output, 'w') as outfile:
+		outfile.write("# Biosample\tAssay\n")
+		for biosample, assay in ranked_names:
+			outfile.write("{}\t{}\n".format(biosample, assay))
+else:
+	for biosample, assay in ranked_names:
+		sys.stdout.write("{}\t{}\n".format(biosample, assay))
+
+if parser.outputr:
+	numpy.savetxt(parser.outputr, ranking, delimiter='\n')

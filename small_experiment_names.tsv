@@ -1,0 +1,2055 @@
+# Biosample	Assay
+KMS-11	ATAC-seq
+KMS-11	ChIP-seq FOXK2
+KMS-11	ChIP-seq H3K36me3
+KMS-11	ChIP-seq KDM1A
+KMS-11	ChIP-seq SUZ12
+KMS-11	small RNA-seq
+SK-N-SH	ChIP-seq EZH2phosphoT487
+SK-N-SH	ChIP-seq H3K27ac
+SK-N-SH	ChIP-seq HDAC2
+SK-N-SH	ChIP-seq SMC3
+SK-N-SH	polyA RNA-seq
+K562	ChIP-seq ETS1
+K562	ChIP-seq H3K18ac
+K562	ChIP-seq H4K8ac
+K562	ChIP-seq RXRA
+K562	RAMPAGE
+B cell female adult (27 years) and female adult (43 years)	ChIP-seq ELK1
+B cell female adult (27 years) and female adult (43 years)	ChIP-seq H3F3A
+B cell female adult (27 years) and female adult (43 years)	ChIP-seq H3K9me3
+B cell female adult (27 years) and female adult (43 years)	ChIP-seq REST
+B cell female adult (27 years) and female adult (43 years)	ChIP-seq ZFP36
+neurosphere embryo (15 weeks) originated from ganglionic eminence	ChIP-seq EGR1
+neurosphere embryo (15 weeks) originated from ganglionic eminence	ChIP-seq H2BK15ac
+neurosphere embryo (15 weeks) originated from ganglionic eminence	ChIP-seq H3K9ac
+neurosphere embryo (15 weeks) originated from ganglionic eminence	ChIP-seq RAD21
+neurosphere embryo (15 weeks) originated from ganglionic eminence	ChIP-seq YY1
+placenta embryo (16 weeks)	ChIP-seq CHD2
+placenta embryo (16 weeks)	ChIP-seq H2BK120ac
+placenta embryo (16 weeks)	ChIP-seq H3K79me1
+placenta embryo (16 weeks)	ChIP-seq POLR2A
+placenta embryo (16 weeks)	ChIP-seq USF1
+H1-hESC	ChIP-seq BHLHE40
+H1-hESC	ChIP-seq H2AFZ
+H1-hESC	ChIP-seq H3K4me2
+H1-hESC	ChIP-seq MAZ
+H1-hESC	ChIP-seq TBP
+IMR-90 nuclear fraction	CAGE
+IMR-90 nuclear fraction	ChIP-seq GABPA
+IMR-90 nuclear fraction	ChIP-seq H3K4ac
+IMR-90 nuclear fraction	ChIP-seq MAFK
+IMR-90 nuclear fraction	ChIP-seq TAF1
+IMR-90 nuclear fraction	total RNA-seq
+ovary female adult (51 year)	ChIP-seq FOXA1
+ovary female adult (51 year)	ChIP-seq H3K27me3
+ovary female adult (51 year)	ChIP-seq JUND
+ovary female adult (51 year)	ChIP-seq SP1
+ovary female adult (51 year)	polyA depleted RNA-seq
+layer of hippocampus female adult (75 years)	ChIP-seq EZH2
+layer of hippocampus female adult (75 years)	ChIP-seq H3K23ac
+layer of hippocampus female adult (75 years)	ChIP-seq H4K91ac
+layer of hippocampus female adult (75 years)	ChIP-seq SIN3A
+layer of hippocampus female adult (75 years)	microRNA-seq
+epithelial cell of proximal tubule	ChIP-seq EP300
+epithelial cell of proximal tubule	ChIP-seq H3K14ac
+epithelial cell of proximal tubule	ChIP-seq H4K20me1
+epithelial cell of proximal tubule	ChIP-seq RFX5
+epithelial cell of proximal tubule	DNase-seq read-depth normalized signal
+placenta male embryo (16 weeks)	ChIP-seq ELF1
+placenta male embryo (16 weeks)	ChIP-seq H2BK5ac
+placenta male embryo (16 weeks)	ChIP-seq H3K9me2
+placenta male embryo (16 weeks)	ChIP-seq RCOR1
+placenta male embryo (16 weeks)	ChIP-seq ZBTB33
+sigmoid colon female adult (53 years)	ChIP-seq CTCF
+sigmoid colon female adult (53 years)	ChIP-seq H2BK12ac
+sigmoid colon female adult (53 years)	ChIP-seq H3K79me2
+sigmoid colon female adult (53 years)	ChIP-seq POLR2AphosphoS5
+sigmoid colon female adult (53 years)	ChIP-seq USF2
+HL-60	ChIP-seq CEBPB
+HL-60	ChIP-seq H2AK5ac
+HL-60	ChIP-seq H3K4me3
+HL-60	ChIP-seq NRF1
+HL-60	ChIP-seq TCF12
+esophagus female adult (30 years)	ChIP-seq ATF3
+esophagus female adult (30 years)	ChIP-seq GTF2F1
+esophagus female adult (30 years)	ChIP-seq H3K4me1
+esophagus female adult (30 years)	ChIP-seq MAX
+esophagus female adult (30 years)	ChIP-seq TARDBP
+fibroblast of lung male adult (45 years)	ATAC-seq
+fibroblast of lung male adult (45 years)	ChIP-seq FOXK2
+fibroblast of lung male adult (45 years)	ChIP-seq H3K36me3
+fibroblast of lung male adult (45 years)	ChIP-seq KDM1A
+fibroblast of lung male adult (45 years)	ChIP-seq SUZ12
+fibroblast of lung male adult (45 years)	small RNA-seq
+liver female adult (25 years)	ChIP-seq EZH2phosphoT487
+liver female adult (25 years)	ChIP-seq H3K27ac
+liver female adult (25 years)	ChIP-seq HDAC2
+liver female adult (25 years)	ChIP-seq SMC3
+liver female adult (25 years)	polyA RNA-seq
+ACC112	ChIP-seq ETS1
+ACC112	ChIP-seq H3K18ac
+ACC112	ChIP-seq H4K8ac
+ACC112	ChIP-seq RXRA
+ACC112	RAMPAGE
+stomach female adult (53 years)	ChIP-seq ELK1
+stomach female adult (53 years)	ChIP-seq H3F3A
+stomach female adult (53 years)	ChIP-seq H3K9me3
+stomach female adult (53 years)	ChIP-seq REST
+stomach female adult (53 years)	ChIP-seq ZFP36
+subcutaneous adipose tissue female adult (53 years)	ChIP-seq EGR1
+subcutaneous adipose tissue female adult (53 years)	ChIP-seq H2BK15ac
+subcutaneous adipose tissue female adult (53 years)	ChIP-seq H3K9ac
+subcutaneous adipose tissue female adult (53 years)	ChIP-seq RAD21
+subcutaneous adipose tissue female adult (53 years)	ChIP-seq YY1
+chorion male embryo (16 weeks)	ChIP-seq CHD2
+chorion male embryo (16 weeks)	ChIP-seq H2BK120ac
+chorion male embryo (16 weeks)	ChIP-seq H3K79me1
+chorion male embryo (16 weeks)	ChIP-seq POLR2A
+chorion male embryo (16 weeks)	ChIP-seq USF1
+chorion female embryo (40 weeks)	ChIP-seq BHLHE40
+chorion female embryo (40 weeks)	ChIP-seq H2AFZ
+chorion female embryo (40 weeks)	ChIP-seq H3K4me2
+chorion female embryo (40 weeks)	ChIP-seq MAZ
+chorion female embryo (40 weeks)	ChIP-seq TBP
+middle frontal area 46 female adult (75 years)	CAGE
+middle frontal area 46 female adult (75 years)	ChIP-seq GABPA
+middle frontal area 46 female adult (75 years)	ChIP-seq H3K4ac
+middle frontal area 46 female adult (75 years)	ChIP-seq MAFK
+middle frontal area 46 female adult (75 years)	ChIP-seq TAF1
+middle frontal area 46 female adult (75 years)	total RNA-seq
+HT1080 nuclear fraction	ChIP-seq FOXA1
+HT1080 nuclear fraction	ChIP-seq H3K27me3
+HT1080 nuclear fraction	ChIP-seq JUND
+HT1080 nuclear fraction	ChIP-seq SP1
+HT1080 nuclear fraction	polyA depleted RNA-seq
+transverse colon female adult (53 years)	ChIP-seq EZH2
+transverse colon female adult (53 years)	ChIP-seq H3K23ac
+transverse colon female adult (53 years)	ChIP-seq H4K91ac
+transverse colon female adult (53 years)	ChIP-seq SIN3A
+transverse colon female adult (53 years)	microRNA-seq
+heart left ventricle male adult (34 years)	ChIP-seq EP300
+heart left ventricle male adult (34 years)	ChIP-seq H3K14ac
+heart left ventricle male adult (34 years)	ChIP-seq H4K20me1
+heart left ventricle male adult (34 years)	ChIP-seq RFX5
+heart left ventricle male adult (34 years)	DNase-seq read-depth normalized signal
+HepG2	ChIP-seq ELF1
+HepG2	ChIP-seq H2BK5ac
+HepG2	ChIP-seq H3K9me2
+HepG2	ChIP-seq RCOR1
+HepG2	ChIP-seq ZBTB33
+GM12878	ChIP-seq CTCF
+GM12878	ChIP-seq H2BK12ac
+GM12878	ChIP-seq H3K79me2
+GM12878	ChIP-seq POLR2AphosphoS5
+GM12878	ChIP-seq USF2
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)	ChIP-seq CEBPB
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)	ChIP-seq H2AK5ac
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)	ChIP-seq H3K4me3
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)	ChIP-seq NRF1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)	ChIP-seq TCF12
+fibroblast of breast female adult (17 years)	ChIP-seq ATF3
+fibroblast of breast female adult (17 years)	ChIP-seq GTF2F1
+fibroblast of breast female adult (17 years)	ChIP-seq H3K4me1
+fibroblast of breast female adult (17 years)	ChIP-seq MAX
+fibroblast of breast female adult (17 years)	ChIP-seq TARDBP
+GM12878 cytosolic fraction	ATAC-seq
+GM12878 cytosolic fraction	ChIP-seq FOXK2
+GM12878 cytosolic fraction	ChIP-seq H3K36me3
+GM12878 cytosolic fraction	ChIP-seq KDM1A
+GM12878 cytosolic fraction	ChIP-seq SUZ12
+GM12878 cytosolic fraction	small RNA-seq
+myotube	ChIP-seq EZH2phosphoT487
+myotube	ChIP-seq H3K27ac
+myotube	ChIP-seq HDAC2
+myotube	ChIP-seq SMC3
+myotube	polyA RNA-seq
+trophoblast cell originated from H1-hESC	ChIP-seq ETS1
+trophoblast cell originated from H1-hESC	ChIP-seq H3K18ac
+trophoblast cell originated from H1-hESC	ChIP-seq H4K8ac
+trophoblast cell originated from H1-hESC	ChIP-seq RXRA
+trophoblast cell originated from H1-hESC	RAMPAGE
+A549 cytosolic fraction	ChIP-seq ELK1
+A549 cytosolic fraction	ChIP-seq H3F3A
+A549 cytosolic fraction	ChIP-seq H3K9me3
+A549 cytosolic fraction	ChIP-seq REST
+A549 cytosolic fraction	ChIP-seq ZFP36
+spleen female adult (53 years)	ChIP-seq EGR1
+spleen female adult (53 years)	ChIP-seq H2BK15ac
+spleen female adult (53 years)	ChIP-seq H3K9ac
+spleen female adult (53 years)	ChIP-seq RAD21
+spleen female adult (53 years)	ChIP-seq YY1
+H9	ChIP-seq CHD2
+H9	ChIP-seq H2BK120ac
+H9	ChIP-seq H3K79me1
+H9	ChIP-seq POLR2A
+H9	ChIP-seq USF1
+GM12891	ChIP-seq BHLHE40
+GM12891	ChIP-seq H2AFZ
+GM12891	ChIP-seq H3K4me2
+GM12891	ChIP-seq MAZ
+GM12891	ChIP-seq TBP
+Loucy	CAGE
+Loucy	ChIP-seq GABPA
+Loucy	ChIP-seq H3K4ac
+Loucy	ChIP-seq MAFK
+Loucy	ChIP-seq TAF1
+Loucy	total RNA-seq
+B cell female adult (27 years)	ChIP-seq FOXA1
+B cell female adult (27 years)	ChIP-seq H3K27me3
+B cell female adult (27 years)	ChIP-seq JUND
+B cell female adult (27 years)	ChIP-seq SP1
+B cell female adult (27 years)	polyA depleted RNA-seq
+NCI-H929	ChIP-seq EZH2
+NCI-H929	ChIP-seq H3K23ac
+NCI-H929	ChIP-seq H4K91ac
+NCI-H929	ChIP-seq SIN3A
+NCI-H929	microRNA-seq
+upper lobe of left lung female adult (53 years)	ChIP-seq EP300
+upper lobe of left lung female adult (53 years)	ChIP-seq H3K14ac
+upper lobe of left lung female adult (53 years)	ChIP-seq H4K20me1
+upper lobe of left lung female adult (53 years)	ChIP-seq RFX5
+upper lobe of left lung female adult (53 years)	DNase-seq read-depth normalized signal
+muscle of leg female embryo (110 days)	ChIP-seq ELF1
+muscle of leg female embryo (110 days)	ChIP-seq H2BK5ac
+muscle of leg female embryo (110 days)	ChIP-seq H3K9me2
+muscle of leg female embryo (110 days)	ChIP-seq RCOR1
+muscle of leg female embryo (110 days)	ChIP-seq ZBTB33
+chorionic villus male embryo (38 weeks)	ChIP-seq CTCF
+chorionic villus male embryo (38 weeks)	ChIP-seq H2BK12ac
+chorionic villus male embryo (38 weeks)	ChIP-seq H3K79me2
+chorionic villus male embryo (38 weeks)	ChIP-seq POLR2AphosphoS5
+chorionic villus male embryo (38 weeks)	ChIP-seq USF2
+stomach male adult (37 years)	ChIP-seq CEBPB
+stomach male adult (37 years)	ChIP-seq H2AK5ac
+stomach male adult (37 years)	ChIP-seq H3K4me3
+stomach male adult (37 years)	ChIP-seq NRF1
+stomach male adult (37 years)	ChIP-seq TCF12
+HeLa-S3	ChIP-seq ATF3
+HeLa-S3	ChIP-seq GTF2F1
+HeLa-S3	ChIP-seq H3K4me1
+HeLa-S3	ChIP-seq MAX
+HeLa-S3	ChIP-seq TARDBP
+MCF-7	ATAC-seq
+MCF-7	ChIP-seq FOXK2
+MCF-7	ChIP-seq H3K36me3
+MCF-7	ChIP-seq KDM1A
+MCF-7	ChIP-seq SUZ12
+MCF-7	small RNA-seq
+colonic mucosa female adult (73 years)	ChIP-seq EZH2phosphoT487
+colonic mucosa female adult (73 years)	ChIP-seq H3K27ac
+colonic mucosa female adult (73 years)	ChIP-seq HDAC2
+colonic mucosa female adult (73 years)	ChIP-seq SMC3
+colonic mucosa female adult (73 years)	polyA RNA-seq
+smooth muscle cell originated from H9	ChIP-seq ETS1
+smooth muscle cell originated from H9	ChIP-seq H3K18ac
+smooth muscle cell originated from H9	ChIP-seq H4K8ac
+smooth muscle cell originated from H9	ChIP-seq RXRA
+smooth muscle cell originated from H9	RAMPAGE
+thymus male child (3 years)	ChIP-seq ELK1
+thymus male child (3 years)	ChIP-seq H3F3A
+thymus male child (3 years)	ChIP-seq H3K9me3
+thymus male child (3 years)	ChIP-seq REST
+thymus male child (3 years)	ChIP-seq ZFP36
+right atrium auricular region female adult (53 years)	ChIP-seq EGR1
+right atrium auricular region female adult (53 years)	ChIP-seq H2BK15ac
+right atrium auricular region female adult (53 years)	ChIP-seq H3K9ac
+right atrium auricular region female adult (53 years)	ChIP-seq RAD21
+right atrium auricular region female adult (53 years)	ChIP-seq YY1
+body of pancreas male adult (54 years)	ChIP-seq CHD2
+body of pancreas male adult (54 years)	ChIP-seq H2BK120ac
+body of pancreas male adult (54 years)	ChIP-seq H3K79me1
+body of pancreas male adult (54 years)	ChIP-seq POLR2A
+body of pancreas male adult (54 years)	ChIP-seq USF1
+placental pericyte female newborn and male newborn	ChIP-seq BHLHE40
+placental pericyte female newborn and male newborn	ChIP-seq H2AFZ
+placental pericyte female newborn and male newborn	ChIP-seq H3K4me2
+placental pericyte female newborn and male newborn	ChIP-seq MAZ
+placental pericyte female newborn and male newborn	ChIP-seq TBP
+colonic mucosa female adult (56 years)	CAGE
+colonic mucosa female adult (56 years)	ChIP-seq GABPA
+colonic mucosa female adult (56 years)	ChIP-seq H3K4ac
+colonic mucosa female adult (56 years)	ChIP-seq MAFK
+colonic mucosa female adult (56 years)	ChIP-seq TAF1
+colonic mucosa female adult (56 years)	total RNA-seq
+adipocyte originated from mesenchymal stem cell	ChIP-seq FOXA1
+adipocyte originated from mesenchymal stem cell	ChIP-seq H3K27me3
+adipocyte originated from mesenchymal stem cell	ChIP-seq JUND
+adipocyte originated from mesenchymal stem cell	ChIP-seq SP1
+adipocyte originated from mesenchymal stem cell	polyA depleted RNA-seq
+sigmoid colon male adult (54 years)	ChIP-seq EZH2
+sigmoid colon male adult (54 years)	ChIP-seq H3K23ac
+sigmoid colon male adult (54 years)	ChIP-seq H4K91ac
+sigmoid colon male adult (54 years)	ChIP-seq SIN3A
+sigmoid colon male adult (54 years)	microRNA-seq
+MM.1S	ChIP-seq EP300
+MM.1S	ChIP-seq H3K14ac
+MM.1S	ChIP-seq H4K20me1
+MM.1S	ChIP-seq RFX5
+MM.1S	DNase-seq read-depth normalized signal
+mammary epithelial cell female	ChIP-seq ELF1
+mammary epithelial cell female	ChIP-seq H2BK5ac
+mammary epithelial cell female	ChIP-seq H3K9me2
+mammary epithelial cell female	ChIP-seq RCOR1
+mammary epithelial cell female	ChIP-seq ZBTB33
+cerebellum female embryo (19 weeks) and female embryo (37 weeks)	ChIP-seq CTCF
+cerebellum female embryo (19 weeks) and female embryo (37 weeks)	ChIP-seq H2BK12ac
+cerebellum female embryo (19 weeks) and female embryo (37 weeks)	ChIP-seq H3K79me2
+cerebellum female embryo (19 weeks) and female embryo (37 weeks)	ChIP-seq POLR2AphosphoS5
+cerebellum female embryo (19 weeks) and female embryo (37 weeks)	ChIP-seq USF2
+common myeloid progenitor, CD34-positive female adult (27 years)	ChIP-seq CEBPB
+common myeloid progenitor, CD34-positive female adult (27 years)	ChIP-seq H2AK5ac
+common myeloid progenitor, CD34-positive female adult (27 years)	ChIP-seq H3K4me3
+common myeloid progenitor, CD34-positive female adult (27 years)	ChIP-seq NRF1
+common myeloid progenitor, CD34-positive female adult (27 years)	ChIP-seq TCF12
+mucosa of rectum female adult (50 years)	ChIP-seq ATF3
+mucosa of rectum female adult (50 years)	ChIP-seq GTF2F1
+mucosa of rectum female adult (50 years)	ChIP-seq H3K4me1
+mucosa of rectum female adult (50 years)	ChIP-seq MAX
+mucosa of rectum female adult (50 years)	ChIP-seq TARDBP
+spleen female adult (30 years)	ATAC-seq
+spleen female adult (30 years)	ChIP-seq FOXK2
+spleen female adult (30 years)	ChIP-seq H3K36me3
+spleen female adult (30 years)	ChIP-seq KDM1A
+spleen female adult (30 years)	ChIP-seq SUZ12
+spleen female adult (30 years)	small RNA-seq
+small intestine female adult (30 years)	ChIP-seq EZH2phosphoT487
+small intestine female adult (30 years)	ChIP-seq H3K27ac
+small intestine female adult (30 years)	ChIP-seq HDAC2
+small intestine female adult (30 years)	ChIP-seq SMC3
+small intestine female adult (30 years)	polyA RNA-seq
+stomach smooth muscle female adult (84 years)	ChIP-seq ETS1
+stomach smooth muscle female adult (84 years)	ChIP-seq H3K18ac
+stomach smooth muscle female adult (84 years)	ChIP-seq H4K8ac
+stomach smooth muscle female adult (84 years)	ChIP-seq RXRA
+stomach smooth muscle female adult (84 years)	RAMPAGE
+heart right ventricle male child (3 years)	ChIP-seq ELK1
+heart right ventricle male child (3 years)	ChIP-seq H3F3A
+heart right ventricle male child (3 years)	ChIP-seq H3K9me3
+heart right ventricle male child (3 years)	ChIP-seq REST
+heart right ventricle male child (3 years)	ChIP-seq ZFP36
+gastrocnemius medialis male adult (37 years)	ChIP-seq EGR1
+gastrocnemius medialis male adult (37 years)	ChIP-seq H2BK15ac
+gastrocnemius medialis male adult (37 years)	ChIP-seq H3K9ac
+gastrocnemius medialis male adult (37 years)	ChIP-seq RAD21
+gastrocnemius medialis male adult (37 years)	ChIP-seq YY1
+neural progenitor cell originated from H9	ChIP-seq CHD2
+neural progenitor cell originated from H9	ChIP-seq H2BK120ac
+neural progenitor cell originated from H9	ChIP-seq H3K79me1
+neural progenitor cell originated from H9	ChIP-seq POLR2A
+neural progenitor cell originated from H9	ChIP-seq USF1
+liver male adult (78 years)	ChIP-seq BHLHE40
+liver male adult (78 years)	ChIP-seq H2AFZ
+liver male adult (78 years)	ChIP-seq H3K4me2
+liver male adult (78 years)	ChIP-seq MAZ
+liver male adult (78 years)	ChIP-seq TBP
+sigmoid colon male adult (37 years)	CAGE
+sigmoid colon male adult (37 years)	ChIP-seq GABPA
+sigmoid colon male adult (37 years)	ChIP-seq H3K4ac
+sigmoid colon male adult (37 years)	ChIP-seq MAFK
+sigmoid colon male adult (37 years)	ChIP-seq TAF1
+sigmoid colon male adult (37 years)	total RNA-seq
+endothelial cell of umbilical vein male newborn	ChIP-seq FOXA1
+endothelial cell of umbilical vein male newborn	ChIP-seq H3K27me3
+endothelial cell of umbilical vein male newborn	ChIP-seq JUND
+endothelial cell of umbilical vein male newborn	ChIP-seq SP1
+endothelial cell of umbilical vein male newborn	polyA depleted RNA-seq
+fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)	ChIP-seq EZH2
+fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)	ChIP-seq H3K23ac
+fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)	ChIP-seq H4K91ac
+fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)	ChIP-seq SIN3A
+fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)	microRNA-seq
+liver male adult (32 years)	ChIP-seq EP300
+liver male adult (32 years)	ChIP-seq H3K14ac
+liver male adult (32 years)	ChIP-seq H4K20me1
+liver male adult (32 years)	ChIP-seq RFX5
+liver male adult (32 years)	DNase-seq read-depth normalized signal
+CD14-positive monocyte female	ChIP-seq ELF1
+CD14-positive monocyte female	ChIP-seq H2BK5ac
+CD14-positive monocyte female	ChIP-seq H3K9me2
+CD14-positive monocyte female	ChIP-seq RCOR1
+CD14-positive monocyte female	ChIP-seq ZBTB33
+mesenchymal stem cell of adipose	ChIP-seq CTCF
+mesenchymal stem cell of adipose	ChIP-seq H2BK12ac
+mesenchymal stem cell of adipose	ChIP-seq H3K79me2
+mesenchymal stem cell of adipose	ChIP-seq POLR2AphosphoS5
+mesenchymal stem cell of adipose	ChIP-seq USF2
+skin of body female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq CEBPB
+skin of body female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq H2AK5ac
+skin of body female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq H3K4me3
+skin of body female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq NRF1
+skin of body female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq TCF12
+gastrocnemius medialis female adult (53 years)	ChIP-seq ATF3
+gastrocnemius medialis female adult (53 years)	ChIP-seq GTF2F1
+gastrocnemius medialis female adult (53 years)	ChIP-seq H3K4me1
+gastrocnemius medialis female adult (53 years)	ChIP-seq MAX
+gastrocnemius medialis female adult (53 years)	ChIP-seq TARDBP
+esophagus muscularis mucosa female adult (53 years)	ATAC-seq
+esophagus muscularis mucosa female adult (53 years)	ChIP-seq FOXK2
+esophagus muscularis mucosa female adult (53 years)	ChIP-seq H3K36me3
+esophagus muscularis mucosa female adult (53 years)	ChIP-seq KDM1A
+esophagus muscularis mucosa female adult (53 years)	ChIP-seq SUZ12
+esophagus muscularis mucosa female adult (53 years)	small RNA-seq
+keratinocyte nuclear fraction female	ChIP-seq EZH2phosphoT487
+keratinocyte nuclear fraction female	ChIP-seq H3K27ac
+keratinocyte nuclear fraction female	ChIP-seq HDAC2
+keratinocyte nuclear fraction female	ChIP-seq SMC3
+keratinocyte nuclear fraction female	polyA RNA-seq
+metanephros female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq ETS1
+metanephros female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H3K18ac
+metanephros female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H4K8ac
+metanephros female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq RXRA
+metanephros female embryo (20 weeks) and female embryo (24 weeks)	RAMPAGE
+thymus female embryo (110 days)	ChIP-seq ELK1
+thymus female embryo (110 days)	ChIP-seq H3F3A
+thymus female embryo (110 days)	ChIP-seq H3K9me3
+thymus female embryo (110 days)	ChIP-seq REST
+thymus female embryo (110 days)	ChIP-seq ZFP36
+common myeloid progenitor, CD34-positive male adult (36 years)	ChIP-seq EGR1
+common myeloid progenitor, CD34-positive male adult (36 years)	ChIP-seq H2BK15ac
+common myeloid progenitor, CD34-positive male adult (36 years)	ChIP-seq H3K9ac
+common myeloid progenitor, CD34-positive male adult (36 years)	ChIP-seq RAD21
+common myeloid progenitor, CD34-positive male adult (36 years)	ChIP-seq YY1
+OCI-LY1	ChIP-seq CHD2
+OCI-LY1	ChIP-seq H2BK120ac
+OCI-LY1	ChIP-seq H3K79me1
+OCI-LY1	ChIP-seq POLR2A
+OCI-LY1	ChIP-seq USF1
+neural cell	ChIP-seq BHLHE40
+neural cell	ChIP-seq H2AFZ
+neural cell	ChIP-seq H3K4me2
+neural cell	ChIP-seq MAZ
+neural cell	ChIP-seq TBP
+amnion male embryo (16 weeks)	CAGE
+amnion male embryo (16 weeks)	ChIP-seq GABPA
+amnion male embryo (16 weeks)	ChIP-seq H3K4ac
+amnion male embryo (16 weeks)	ChIP-seq MAFK
+amnion male embryo (16 weeks)	ChIP-seq TAF1
+amnion male embryo (16 weeks)	total RNA-seq
+IMR-90 cytosolic fraction	ChIP-seq FOXA1
+IMR-90 cytosolic fraction	ChIP-seq H3K27me3
+IMR-90 cytosolic fraction	ChIP-seq JUND
+IMR-90 cytosolic fraction	ChIP-seq SP1
+IMR-90 cytosolic fraction	polyA depleted RNA-seq
+heart right ventricle male adult (34 years)	ChIP-seq EZH2
+heart right ventricle male adult (34 years)	ChIP-seq H3K23ac
+heart right ventricle male adult (34 years)	ChIP-seq H4K91ac
+heart right ventricle male adult (34 years)	ChIP-seq SIN3A
+heart right ventricle male adult (34 years)	microRNA-seq
+OCI-LY3	ChIP-seq EP300
+OCI-LY3	ChIP-seq H3K14ac
+OCI-LY3	ChIP-seq H4K20me1
+OCI-LY3	ChIP-seq RFX5
+OCI-LY3	DNase-seq read-depth normalized signal
+muscle layer of duodenum male adult (73 years)	ChIP-seq ELF1
+muscle layer of duodenum male adult (73 years)	ChIP-seq H2BK5ac
+muscle layer of duodenum male adult (73 years)	ChIP-seq H3K9me2
+muscle layer of duodenum male adult (73 years)	ChIP-seq RCOR1
+muscle layer of duodenum male adult (73 years)	ChIP-seq ZBTB33
+GM23338 male adult (53 years) originated from GM23248	ChIP-seq CTCF
+GM23338 male adult (53 years) originated from GM23248	ChIP-seq H2BK12ac
+GM23338 male adult (53 years) originated from GM23248	ChIP-seq H3K79me2
+GM23338 male adult (53 years) originated from GM23248	ChIP-seq POLR2AphosphoS5
+GM23338 male adult (53 years) originated from GM23248	ChIP-seq USF2
+Karpas-422	ChIP-seq CEBPB
+Karpas-422	ChIP-seq H2AK5ac
+Karpas-422	ChIP-seq H3K4me3
+Karpas-422	ChIP-seq NRF1
+Karpas-422	ChIP-seq TCF12
+angular gyrus male adult (81 year)	ChIP-seq ATF3
+angular gyrus male adult (81 year)	ChIP-seq GTF2F1
+angular gyrus male adult (81 year)	ChIP-seq H3K4me1
+angular gyrus male adult (81 year)	ChIP-seq MAX
+angular gyrus male adult (81 year)	ChIP-seq TARDBP
+ovary female adult (53 years)	ATAC-seq
+ovary female adult (53 years)	ChIP-seq FOXK2
+ovary female adult (53 years)	ChIP-seq H3K36me3
+ovary female adult (53 years)	ChIP-seq KDM1A
+ovary female adult (53 years)	ChIP-seq SUZ12
+ovary female adult (53 years)	small RNA-seq
+subcutaneous adipose tissue male adult (37 years)	ChIP-seq EZH2phosphoT487
+subcutaneous adipose tissue male adult (37 years)	ChIP-seq H3K27ac
+subcutaneous adipose tissue male adult (37 years)	ChIP-seq HDAC2
+subcutaneous adipose tissue male adult (37 years)	ChIP-seq SMC3
+subcutaneous adipose tissue male adult (37 years)	polyA RNA-seq
+HT-29	ChIP-seq ETS1
+HT-29	ChIP-seq H3K18ac
+HT-29	ChIP-seq H4K8ac
+HT-29	ChIP-seq RXRA
+HT-29	RAMPAGE
+vagina female adult (53 years)	ChIP-seq ELK1
+vagina female adult (53 years)	ChIP-seq H3F3A
+vagina female adult (53 years)	ChIP-seq H3K9me3
+vagina female adult (53 years)	ChIP-seq REST
+vagina female adult (53 years)	ChIP-seq ZFP36
+HepG2 nuclear fraction	ChIP-seq EGR1
+HepG2 nuclear fraction	ChIP-seq H2BK15ac
+HepG2 nuclear fraction	ChIP-seq H3K9ac
+HepG2 nuclear fraction	ChIP-seq RAD21
+HepG2 nuclear fraction	ChIP-seq YY1
+parietal lobe female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq CHD2
+parietal lobe female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq H2BK120ac
+parietal lobe female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq H3K79me1
+parietal lobe female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq POLR2A
+parietal lobe female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq USF1
+HCT116	ChIP-seq BHLHE40
+HCT116	ChIP-seq H2AFZ
+HCT116	ChIP-seq H3K4me2
+HCT116	ChIP-seq MAZ
+HCT116	ChIP-seq TBP
+HEK293T	CAGE
+HEK293T	ChIP-seq GABPA
+HEK293T	ChIP-seq H3K4ac
+HEK293T	ChIP-seq MAFK
+HEK293T	ChIP-seq TAF1
+HEK293T	total RNA-seq
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours	ChIP-seq FOXA1
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours	ChIP-seq H3K27me3
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours	ChIP-seq JUND
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours	ChIP-seq SP1
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours	polyA depleted RNA-seq
+neural stem progenitor cell originated from H9	ChIP-seq EZH2
+neural stem progenitor cell originated from H9	ChIP-seq H3K23ac
+neural stem progenitor cell originated from H9	ChIP-seq H4K91ac
+neural stem progenitor cell originated from H9	ChIP-seq SIN3A
+neural stem progenitor cell originated from H9	microRNA-seq
+Panc1	ChIP-seq EP300
+Panc1	ChIP-seq H3K14ac
+Panc1	ChIP-seq H4K20me1
+Panc1	ChIP-seq RFX5
+Panc1	DNase-seq read-depth normalized signal
+heart left ventricle female adult (53 years)	ChIP-seq ELF1
+heart left ventricle female adult (53 years)	ChIP-seq H2BK5ac
+heart left ventricle female adult (53 years)	ChIP-seq H3K9me2
+heart left ventricle female adult (53 years)	ChIP-seq RCOR1
+heart left ventricle female adult (53 years)	ChIP-seq ZBTB33
+skeletal muscle myoblast male adult (22 years)	ChIP-seq CTCF
+skeletal muscle myoblast male adult (22 years)	ChIP-seq H2BK12ac
+skeletal muscle myoblast male adult (22 years)	ChIP-seq H3K79me2
+skeletal muscle myoblast male adult (22 years)	ChIP-seq POLR2AphosphoS5
+skeletal muscle myoblast male adult (22 years)	ChIP-seq USF2
+thyroid gland female adult (51 year)	ChIP-seq CEBPB
+thyroid gland female adult (51 year)	ChIP-seq H2AK5ac
+thyroid gland female adult (51 year)	ChIP-seq H3K4me3
+thyroid gland female adult (51 year)	ChIP-seq NRF1
+thyroid gland female adult (51 year)	ChIP-seq TCF12
+ovary female adult (30 years)	ChIP-seq ATF3
+ovary female adult (30 years)	ChIP-seq GTF2F1
+ovary female adult (30 years)	ChIP-seq H3K4me1
+ovary female adult (30 years)	ChIP-seq MAX
+ovary female adult (30 years)	ChIP-seq TARDBP
+placental basal plate female embryo (40 weeks)	ATAC-seq
+placental basal plate female embryo (40 weeks)	ChIP-seq FOXK2
+placental basal plate female embryo (40 weeks)	ChIP-seq H3K36me3
+placental basal plate female embryo (40 weeks)	ChIP-seq KDM1A
+placental basal plate female embryo (40 weeks)	ChIP-seq SUZ12
+placental basal plate female embryo (40 weeks)	small RNA-seq
+endothelial cell of umbilical vein nuclear fraction male newborn	ChIP-seq EZH2phosphoT487
+endothelial cell of umbilical vein nuclear fraction male newborn	ChIP-seq H3K27ac
+endothelial cell of umbilical vein nuclear fraction male newborn	ChIP-seq HDAC2
+endothelial cell of umbilical vein nuclear fraction male newborn	ChIP-seq SMC3
+endothelial cell of umbilical vein nuclear fraction male newborn	polyA RNA-seq
+lower leg skin female adult (53 years)	ChIP-seq ETS1
+lower leg skin female adult (53 years)	ChIP-seq H3K18ac
+lower leg skin female adult (53 years)	ChIP-seq H4K8ac
+lower leg skin female adult (53 years)	ChIP-seq RXRA
+lower leg skin female adult (53 years)	RAMPAGE
+neural stem progenitor cell originated from H1-hESC	ChIP-seq ELK1
+neural stem progenitor cell originated from H1-hESC	ChIP-seq H3F3A
+neural stem progenitor cell originated from H1-hESC	ChIP-seq H3K9me3
+neural stem progenitor cell originated from H1-hESC	ChIP-seq REST
+neural stem progenitor cell originated from H1-hESC	ChIP-seq ZFP36
+gastroesophageal sphincter female adult (51 year)	ChIP-seq EGR1
+gastroesophageal sphincter female adult (51 year)	ChIP-seq H2BK15ac
+gastroesophageal sphincter female adult (51 year)	ChIP-seq H3K9ac
+gastroesophageal sphincter female adult (51 year)	ChIP-seq RAD21
+gastroesophageal sphincter female adult (51 year)	ChIP-seq YY1
+lung female adult (30 years)	ChIP-seq CHD2
+lung female adult (30 years)	ChIP-seq H2BK120ac
+lung female adult (30 years)	ChIP-seq H3K79me1
+lung female adult (30 years)	ChIP-seq POLR2A
+lung female adult (30 years)	ChIP-seq USF1
+muscle layer of duodenum male adult (59 years)	ChIP-seq BHLHE40
+muscle layer of duodenum male adult (59 years)	ChIP-seq H2AFZ
+muscle layer of duodenum male adult (59 years)	ChIP-seq H3K4me2
+muscle layer of duodenum male adult (59 years)	ChIP-seq MAZ
+muscle layer of duodenum male adult (59 years)	ChIP-seq TBP
+peripheral blood mononuclear cell male adult (39 years)	CAGE
+peripheral blood mononuclear cell male adult (39 years)	ChIP-seq GABPA
+peripheral blood mononuclear cell male adult (39 years)	ChIP-seq H3K4ac
+peripheral blood mononuclear cell male adult (39 years)	ChIP-seq MAFK
+peripheral blood mononuclear cell male adult (39 years)	ChIP-seq TAF1
+peripheral blood mononuclear cell male adult (39 years)	total RNA-seq
+H9 genetically modified using stable transfection	ChIP-seq FOXA1
+H9 genetically modified using stable transfection	ChIP-seq H3K27me3
+H9 genetically modified using stable transfection	ChIP-seq JUND
+H9 genetically modified using stable transfection	ChIP-seq SP1
+H9 genetically modified using stable transfection	polyA depleted RNA-seq
+foreskin fibroblast male newborn	ChIP-seq EZH2
+foreskin fibroblast male newborn	ChIP-seq H3K23ac
+foreskin fibroblast male newborn	ChIP-seq H4K91ac
+foreskin fibroblast male newborn	ChIP-seq SIN3A
+foreskin fibroblast male newborn	microRNA-seq
+HeLa-S3 nuclear fraction	ChIP-seq EP300
+HeLa-S3 nuclear fraction	ChIP-seq H3K14ac
+HeLa-S3 nuclear fraction	ChIP-seq H4K20me1
+HeLa-S3 nuclear fraction	ChIP-seq RFX5
+HeLa-S3 nuclear fraction	DNase-seq read-depth normalized signal
+tibial nerve female adult (53 years)	ChIP-seq ELF1
+tibial nerve female adult (53 years)	ChIP-seq H2BK5ac
+tibial nerve female adult (53 years)	ChIP-seq H3K9me2
+tibial nerve female adult (53 years)	ChIP-seq RCOR1
+tibial nerve female adult (53 years)	ChIP-seq ZBTB33
+neutrophil	ChIP-seq CTCF
+neutrophil	ChIP-seq H2BK12ac
+neutrophil	ChIP-seq H3K79me2
+neutrophil	ChIP-seq POLR2AphosphoS5
+neutrophil	ChIP-seq USF2
+vagina female adult (51 year)	ChIP-seq CEBPB
+vagina female adult (51 year)	ChIP-seq H2AK5ac
+vagina female adult (51 year)	ChIP-seq H3K4me3
+vagina female adult (51 year)	ChIP-seq NRF1
+vagina female adult (51 year)	ChIP-seq TCF12
+CD14-positive monocyte male adult (21 year)	ChIP-seq ATF3
+CD14-positive monocyte male adult (21 year)	ChIP-seq GTF2F1
+CD14-positive monocyte male adult (21 year)	ChIP-seq H3K4me1
+CD14-positive monocyte male adult (21 year)	ChIP-seq MAX
+CD14-positive monocyte male adult (21 year)	ChIP-seq TARDBP
+H1-hESC cytosolic fraction	ATAC-seq
+H1-hESC cytosolic fraction	ChIP-seq FOXK2
+H1-hESC cytosolic fraction	ChIP-seq H3K36me3
+H1-hESC cytosolic fraction	ChIP-seq KDM1A
+H1-hESC cytosolic fraction	ChIP-seq SUZ12
+H1-hESC cytosolic fraction	small RNA-seq
+heart left ventricle male child (3 years)	ChIP-seq EZH2phosphoT487
+heart left ventricle male child (3 years)	ChIP-seq H3K27ac
+heart left ventricle male child (3 years)	ChIP-seq HDAC2
+heart left ventricle male child (3 years)	ChIP-seq SMC3
+heart left ventricle male child (3 years)	polyA RNA-seq
+prostate gland male adult (37 years)	ChIP-seq ETS1
+prostate gland male adult (37 years)	ChIP-seq H3K18ac
+prostate gland male adult (37 years)	ChIP-seq H4K8ac
+prostate gland male adult (37 years)	ChIP-seq RXRA
+prostate gland male adult (37 years)	RAMPAGE
+M059J	ChIP-seq ELK1
+M059J	ChIP-seq H3F3A
+M059J	ChIP-seq H3K9me3
+M059J	ChIP-seq REST
+M059J	ChIP-seq ZFP36
+CD4-positive, alpha-beta T cell	ChIP-seq EGR1
+CD4-positive, alpha-beta T cell	ChIP-seq H2BK15ac
+CD4-positive, alpha-beta T cell	ChIP-seq H3K9ac
+CD4-positive, alpha-beta T cell	ChIP-seq RAD21
+CD4-positive, alpha-beta T cell	ChIP-seq YY1
+mammary epithelial cell female adult (18 years)	ChIP-seq CHD2
+mammary epithelial cell female adult (18 years)	ChIP-seq H2BK120ac
+mammary epithelial cell female adult (18 years)	ChIP-seq H3K79me1
+mammary epithelial cell female adult (18 years)	ChIP-seq POLR2A
+mammary epithelial cell female adult (18 years)	ChIP-seq USF1
+layer of hippocampus male adult (73 years)	ChIP-seq BHLHE40
+layer of hippocampus male adult (73 years)	ChIP-seq H2AFZ
+layer of hippocampus male adult (73 years)	ChIP-seq H3K4me2
+layer of hippocampus male adult (73 years)	ChIP-seq MAZ
+layer of hippocampus male adult (73 years)	ChIP-seq TBP
+Parathyroid adenoma male adult (62 years)	CAGE
+Parathyroid adenoma male adult (62 years)	ChIP-seq GABPA
+Parathyroid adenoma male adult (62 years)	ChIP-seq H3K4ac
+Parathyroid adenoma male adult (62 years)	ChIP-seq MAFK
+Parathyroid adenoma male adult (62 years)	ChIP-seq TAF1
+Parathyroid adenoma male adult (62 years)	total RNA-seq
+sigmoid colon male adult (34 years)	ChIP-seq FOXA1
+sigmoid colon male adult (34 years)	ChIP-seq H3K27me3
+sigmoid colon male adult (34 years)	ChIP-seq JUND
+sigmoid colon male adult (34 years)	ChIP-seq SP1
+sigmoid colon male adult (34 years)	polyA depleted RNA-seq
+endocrine pancreas adult (59 years)	ChIP-seq EZH2
+endocrine pancreas adult (59 years)	ChIP-seq H3K23ac
+endocrine pancreas adult (59 years)	ChIP-seq H4K91ac
+endocrine pancreas adult (59 years)	ChIP-seq SIN3A
+endocrine pancreas adult (59 years)	microRNA-seq
+skeletal muscle satellite cell female adult originated from mesodermal cell	ChIP-seq EP300
+skeletal muscle satellite cell female adult originated from mesodermal cell	ChIP-seq H3K14ac
+skeletal muscle satellite cell female adult originated from mesodermal cell	ChIP-seq H4K20me1
+skeletal muscle satellite cell female adult originated from mesodermal cell	ChIP-seq RFX5
+skeletal muscle satellite cell female adult originated from mesodermal cell	DNase-seq read-depth normalized signal
+esophagus squamous epithelium female adult (53 years)	ChIP-seq ELF1
+esophagus squamous epithelium female adult (53 years)	ChIP-seq H2BK5ac
+esophagus squamous epithelium female adult (53 years)	ChIP-seq H3K9me2
+esophagus squamous epithelium female adult (53 years)	ChIP-seq RCOR1
+esophagus squamous epithelium female adult (53 years)	ChIP-seq ZBTB33
+lung male child (3 years)	ChIP-seq CTCF
+lung male child (3 years)	ChIP-seq H2BK12ac
+lung male child (3 years)	ChIP-seq H3K79me2
+lung male child (3 years)	ChIP-seq POLR2AphosphoS5
+lung male child (3 years)	ChIP-seq USF2
+melanocyte of skin male child (1 year) and male child (3 years)	ChIP-seq CEBPB
+melanocyte of skin male child (1 year) and male child (3 years)	ChIP-seq H2AK5ac
+melanocyte of skin male child (1 year) and male child (3 years)	ChIP-seq H3K4me3
+melanocyte of skin male child (1 year) and male child (3 years)	ChIP-seq NRF1
+melanocyte of skin male child (1 year) and male child (3 years)	ChIP-seq TCF12
+foreskin keratinocyte male newborn	ChIP-seq ATF3
+foreskin keratinocyte male newborn	ChIP-seq GTF2F1
+foreskin keratinocyte male newborn	ChIP-seq H3K4me1
+foreskin keratinocyte male newborn	ChIP-seq MAX
+foreskin keratinocyte male newborn	ChIP-seq TARDBP
+B cell male adult (37 years)	ATAC-seq
+B cell male adult (37 years)	ChIP-seq FOXK2
+B cell male adult (37 years)	ChIP-seq H3K36me3
+B cell male adult (37 years)	ChIP-seq KDM1A
+B cell male adult (37 years)	ChIP-seq SUZ12
+B cell male adult (37 years)	small RNA-seq
+PC-3	ChIP-seq EZH2phosphoT487
+PC-3	ChIP-seq H3K27ac
+PC-3	ChIP-seq HDAC2
+PC-3	ChIP-seq SMC3
+PC-3	polyA RNA-seq
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days	ChIP-seq ETS1
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days	ChIP-seq H3K18ac
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days	ChIP-seq H4K8ac
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days	ChIP-seq RXRA
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days	RAMPAGE
+IMR-90	ChIP-seq ELK1
+IMR-90	ChIP-seq H3F3A
+IMR-90	ChIP-seq H3K9me3
+IMR-90	ChIP-seq REST
+IMR-90	ChIP-seq ZFP36
+Peyer's patch female adult (53 years)	ChIP-seq EGR1
+Peyer's patch female adult (53 years)	ChIP-seq H2BK15ac
+Peyer's patch female adult (53 years)	ChIP-seq H3K9ac
+Peyer's patch female adult (53 years)	ChIP-seq RAD21
+Peyer's patch female adult (53 years)	ChIP-seq YY1
+A549 nuclear fraction	ChIP-seq CHD2
+A549 nuclear fraction	ChIP-seq H2BK120ac
+A549 nuclear fraction	ChIP-seq H3K79me1
+A549 nuclear fraction	ChIP-seq POLR2A
+A549 nuclear fraction	ChIP-seq USF1
+right cardiac atrium male adult (34 years)	ChIP-seq BHLHE40
+right cardiac atrium male adult (34 years)	ChIP-seq H2AFZ
+right cardiac atrium male adult (34 years)	ChIP-seq H3K4me2
+right cardiac atrium male adult (34 years)	ChIP-seq MAZ
+right cardiac atrium male adult (34 years)	ChIP-seq TBP
+esophagus muscularis mucosa female adult (51 year)	CAGE
+esophagus muscularis mucosa female adult (51 year)	ChIP-seq GABPA
+esophagus muscularis mucosa female adult (51 year)	ChIP-seq H3K4ac
+esophagus muscularis mucosa female adult (51 year)	ChIP-seq MAFK
+esophagus muscularis mucosa female adult (51 year)	ChIP-seq TAF1
+esophagus muscularis mucosa female adult (51 year)	total RNA-seq
+brain male embryo (122 days)	ChIP-seq FOXA1
+brain male embryo (122 days)	ChIP-seq H3K27me3
+brain male embryo (122 days)	ChIP-seq JUND
+brain male embryo (122 days)	ChIP-seq SP1
+brain male embryo (122 days)	polyA depleted RNA-seq
+layer of hippocampus male adult (81 year)	ChIP-seq EZH2
+layer of hippocampus male adult (81 year)	ChIP-seq H3K23ac
+layer of hippocampus male adult (81 year)	ChIP-seq H4K91ac
+layer of hippocampus male adult (81 year)	ChIP-seq SIN3A
+layer of hippocampus male adult (81 year)	microRNA-seq
+esophagus squamous epithelium male adult (37 years)	ChIP-seq EP300
+esophagus squamous epithelium male adult (37 years)	ChIP-seq H3K14ac
+esophagus squamous epithelium male adult (37 years)	ChIP-seq H4K20me1
+esophagus squamous epithelium male adult (37 years)	ChIP-seq RFX5
+esophagus squamous epithelium male adult (37 years)	DNase-seq read-depth normalized signal
+adrenal gland female adult (30 years)	ChIP-seq ELF1
+adrenal gland female adult (30 years)	ChIP-seq H2BK5ac
+adrenal gland female adult (30 years)	ChIP-seq H3K9me2
+adrenal gland female adult (30 years)	ChIP-seq RCOR1
+adrenal gland female adult (30 years)	ChIP-seq ZBTB33
+SJCRH30	ChIP-seq CTCF
+SJCRH30	ChIP-seq H2BK12ac
+SJCRH30	ChIP-seq H3K79me2
+SJCRH30	ChIP-seq POLR2AphosphoS5
+SJCRH30	ChIP-seq USF2
+mesenchymal stem cell originated from adipose tissue	ChIP-seq CEBPB
+mesenchymal stem cell originated from adipose tissue	ChIP-seq H2AK5ac
+mesenchymal stem cell originated from adipose tissue	ChIP-seq H3K4me3
+mesenchymal stem cell originated from adipose tissue	ChIP-seq NRF1
+mesenchymal stem cell originated from adipose tissue	ChIP-seq TCF12
+aorta male adult (34 years)	ChIP-seq ATF3
+aorta male adult (34 years)	ChIP-seq GTF2F1
+aorta male adult (34 years)	ChIP-seq H3K4me1
+aorta male adult (34 years)	ChIP-seq MAX
+aorta male adult (34 years)	ChIP-seq TARDBP
+myoepithelial cell of mammary gland female adult (33 years)	ATAC-seq
+myoepithelial cell of mammary gland female adult (33 years)	ChIP-seq FOXK2
+myoepithelial cell of mammary gland female adult (33 years)	ChIP-seq H3K36me3
+myoepithelial cell of mammary gland female adult (33 years)	ChIP-seq KDM1A
+myoepithelial cell of mammary gland female adult (33 years)	ChIP-seq SUZ12
+myoepithelial cell of mammary gland female adult (33 years)	small RNA-seq
+common myeloid progenitor, CD34-positive	ChIP-seq EZH2phosphoT487
+common myeloid progenitor, CD34-positive	ChIP-seq H3K27ac
+common myeloid progenitor, CD34-positive	ChIP-seq HDAC2
+common myeloid progenitor, CD34-positive	ChIP-seq SMC3
+common myeloid progenitor, CD34-positive	polyA RNA-seq
+HUES6	ChIP-seq ETS1
+HUES6	ChIP-seq H3K18ac
+HUES6	ChIP-seq H4K8ac
+HUES6	ChIP-seq RXRA
+HUES6	RAMPAGE
+substantia nigra female adult (75 years)	ChIP-seq ELK1
+substantia nigra female adult (75 years)	ChIP-seq H3F3A
+substantia nigra female adult (75 years)	ChIP-seq H3K9me3
+substantia nigra female adult (75 years)	ChIP-seq REST
+substantia nigra female adult (75 years)	ChIP-seq ZFP36
+kidney male adult (50 years)	ChIP-seq EGR1
+kidney male adult (50 years)	ChIP-seq H2BK15ac
+kidney male adult (50 years)	ChIP-seq H3K9ac
+kidney male adult (50 years)	ChIP-seq RAD21
+kidney male adult (50 years)	ChIP-seq YY1
+esophagus muscularis mucosa male adult (37 years)	ChIP-seq CHD2
+esophagus muscularis mucosa male adult (37 years)	ChIP-seq H2BK120ac
+esophagus muscularis mucosa male adult (37 years)	ChIP-seq H3K79me1
+esophagus muscularis mucosa male adult (37 years)	ChIP-seq POLR2A
+esophagus muscularis mucosa male adult (37 years)	ChIP-seq USF1
+GM12878 nuclear fraction	ChIP-seq BHLHE40
+GM12878 nuclear fraction	ChIP-seq H2AFZ
+GM12878 nuclear fraction	ChIP-seq H3K4me2
+GM12878 nuclear fraction	ChIP-seq MAZ
+GM12878 nuclear fraction	ChIP-seq TBP
+SK-N-DZ cytosolic fraction	CAGE
+SK-N-DZ cytosolic fraction	ChIP-seq GABPA
+SK-N-DZ cytosolic fraction	ChIP-seq H3K4ac
+SK-N-DZ cytosolic fraction	ChIP-seq MAFK
+SK-N-DZ cytosolic fraction	ChIP-seq TAF1
+SK-N-DZ cytosolic fraction	total RNA-seq
+psoas muscle male adult (34 years)	ChIP-seq FOXA1
+psoas muscle male adult (34 years)	ChIP-seq H3K27me3
+psoas muscle male adult (34 years)	ChIP-seq JUND
+psoas muscle male adult (34 years)	ChIP-seq SP1
+psoas muscle male adult (34 years)	polyA depleted RNA-seq
+iPS-18a female adult (48 years)	ChIP-seq EZH2
+iPS-18a female adult (48 years)	ChIP-seq H3K23ac
+iPS-18a female adult (48 years)	ChIP-seq H4K91ac
+iPS-18a female adult (48 years)	ChIP-seq SIN3A
+iPS-18a female adult (48 years)	microRNA-seq
+uterus female adult (51 year)	ChIP-seq EP300
+uterus female adult (51 year)	ChIP-seq H3K14ac
+uterus female adult (51 year)	ChIP-seq H4K20me1
+uterus female adult (51 year)	ChIP-seq RFX5
+uterus female adult (51 year)	DNase-seq read-depth normalized signal
+subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)	ChIP-seq ELF1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)	ChIP-seq H2BK5ac
+subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)	ChIP-seq H3K9me2
+subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)	ChIP-seq RCOR1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)	ChIP-seq ZBTB33
+diencephalon female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq CTCF
+diencephalon female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq H2BK12ac
+diencephalon female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq H3K79me2
+diencephalon female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq POLR2AphosphoS5
+diencephalon female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq USF2
+trophoblast female embryo (20 weeks)	ChIP-seq CEBPB
+trophoblast female embryo (20 weeks)	ChIP-seq H2AK5ac
+trophoblast female embryo (20 weeks)	ChIP-seq H3K4me3
+trophoblast female embryo (20 weeks)	ChIP-seq NRF1
+trophoblast female embryo (20 weeks)	ChIP-seq TCF12
+CD8-positive, alpha-beta memory T cell	ChIP-seq ATF3
+CD8-positive, alpha-beta memory T cell	ChIP-seq GTF2F1
+CD8-positive, alpha-beta memory T cell	ChIP-seq H3K4me1
+CD8-positive, alpha-beta memory T cell	ChIP-seq MAX
+CD8-positive, alpha-beta memory T cell	ChIP-seq TARDBP
+testis male adult (37 years)	ATAC-seq
+testis male adult (37 years)	ChIP-seq FOXK2
+testis male adult (37 years)	ChIP-seq H3K36me3
+testis male adult (37 years)	ChIP-seq KDM1A
+testis male adult (37 years)	ChIP-seq SUZ12
+testis male adult (37 years)	small RNA-seq
+hematopoietic multipotent progenitor cell	ChIP-seq EZH2phosphoT487
+hematopoietic multipotent progenitor cell	ChIP-seq H3K27ac
+hematopoietic multipotent progenitor cell	ChIP-seq HDAC2
+hematopoietic multipotent progenitor cell	ChIP-seq SMC3
+hematopoietic multipotent progenitor cell	polyA RNA-seq
+mammary epithelial cell female adult (50 years)	ChIP-seq ETS1
+mammary epithelial cell female adult (50 years)	ChIP-seq H3K18ac
+mammary epithelial cell female adult (50 years)	ChIP-seq H4K8ac
+mammary epithelial cell female adult (50 years)	ChIP-seq RXRA
+mammary epithelial cell female adult (50 years)	RAMPAGE
+skeletal muscle satellite cell female adult (64 years) and male adult (21 year)	ChIP-seq ELK1
+skeletal muscle satellite cell female adult (64 years) and male adult (21 year)	ChIP-seq H3F3A
+skeletal muscle satellite cell female adult (64 years) and male adult (21 year)	ChIP-seq H3K9me3
+skeletal muscle satellite cell female adult (64 years) and male adult (21 year)	ChIP-seq REST
+skeletal muscle satellite cell female adult (64 years) and male adult (21 year)	ChIP-seq ZFP36
+upper lobe of left lung male adult (54 years)	ChIP-seq EGR1
+upper lobe of left lung male adult (54 years)	ChIP-seq H2BK15ac
+upper lobe of left lung male adult (54 years)	ChIP-seq H3K9ac
+upper lobe of left lung male adult (54 years)	ChIP-seq RAD21
+upper lobe of left lung male adult (54 years)	ChIP-seq YY1
+breast epithelium female adult (53 years)	ChIP-seq CHD2
+breast epithelium female adult (53 years)	ChIP-seq H2BK120ac
+breast epithelium female adult (53 years)	ChIP-seq H3K79me1
+breast epithelium female adult (53 years)	ChIP-seq POLR2A
+breast epithelium female adult (53 years)	ChIP-seq USF1
+A375	ChIP-seq BHLHE40
+A375	ChIP-seq H2AFZ
+A375	ChIP-seq H3K4me2
+A375	ChIP-seq MAZ
+A375	ChIP-seq TBP
+germinal matrix male embryo (20 weeks)	CAGE
+germinal matrix male embryo (20 weeks)	ChIP-seq GABPA
+germinal matrix male embryo (20 weeks)	ChIP-seq H3K4ac
+germinal matrix male embryo (20 weeks)	ChIP-seq MAFK
+germinal matrix male embryo (20 weeks)	ChIP-seq TAF1
+germinal matrix male embryo (20 weeks)	total RNA-seq
+osteoblast	ChIP-seq FOXA1
+osteoblast	ChIP-seq H3K27me3
+osteoblast	ChIP-seq JUND
+osteoblast	ChIP-seq SP1
+osteoblast	polyA depleted RNA-seq
+melanocyte of skin female adult (52 years) and male adult (55 years)	ChIP-seq EZH2
+melanocyte of skin female adult (52 years) and male adult (55 years)	ChIP-seq H3K23ac
+melanocyte of skin female adult (52 years) and male adult (55 years)	ChIP-seq H4K91ac
+melanocyte of skin female adult (52 years) and male adult (55 years)	ChIP-seq SIN3A
+melanocyte of skin female adult (52 years) and male adult (55 years)	microRNA-seq
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq EP300
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq H3K14ac
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq H4K20me1
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq RFX5
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin	DNase-seq read-depth normalized signal
+kidney male adult (67 years)	ChIP-seq ELF1
+kidney male adult (67 years)	ChIP-seq H2BK5ac
+kidney male adult (67 years)	ChIP-seq H3K9me2
+kidney male adult (67 years)	ChIP-seq RCOR1
+kidney male adult (67 years)	ChIP-seq ZBTB33
+K562 cytosolic fraction	ChIP-seq CTCF
+K562 cytosolic fraction	ChIP-seq H2BK12ac
+K562 cytosolic fraction	ChIP-seq H3K79me2
+K562 cytosolic fraction	ChIP-seq POLR2AphosphoS5
+K562 cytosolic fraction	ChIP-seq USF2
+body of pancreas male adult (37 years)	ChIP-seq CEBPB
+body of pancreas male adult (37 years)	ChIP-seq H2AK5ac
+body of pancreas male adult (37 years)	ChIP-seq H3K4me3
+body of pancreas male adult (37 years)	ChIP-seq NRF1
+body of pancreas male adult (37 years)	ChIP-seq TCF12
+esophagus squamous epithelium male adult (54 years)	ChIP-seq ATF3
+esophagus squamous epithelium male adult (54 years)	ChIP-seq GTF2F1
+esophagus squamous epithelium male adult (54 years)	ChIP-seq H3K4me1
+esophagus squamous epithelium male adult (54 years)	ChIP-seq MAX
+esophagus squamous epithelium male adult (54 years)	ChIP-seq TARDBP
+neurosphere female embryo (17 weeks) originated from cortex	ATAC-seq
+neurosphere female embryo (17 weeks) originated from cortex	ChIP-seq FOXK2
+neurosphere female embryo (17 weeks) originated from cortex	ChIP-seq H3K36me3
+neurosphere female embryo (17 weeks) originated from cortex	ChIP-seq KDM1A
+neurosphere female embryo (17 weeks) originated from cortex	ChIP-seq SUZ12
+neurosphere female embryo (17 weeks) originated from cortex	small RNA-seq
+fibroblast of lung female child (11 year) and male adult (45 years)	ChIP-seq EZH2phosphoT487
+fibroblast of lung female child (11 year) and male adult (45 years)	ChIP-seq H3K27ac
+fibroblast of lung female child (11 year) and male adult (45 years)	ChIP-seq HDAC2
+fibroblast of lung female child (11 year) and male adult (45 years)	ChIP-seq SMC3
+fibroblast of lung female child (11 year) and male adult (45 years)	polyA RNA-seq
+OCI-LY7	ChIP-seq ETS1
+OCI-LY7	ChIP-seq H3K18ac
+OCI-LY7	ChIP-seq H4K8ac
+OCI-LY7	ChIP-seq RXRA
+OCI-LY7	RAMPAGE
+endocrine pancreas male adult (46 years)	ChIP-seq ELK1
+endocrine pancreas male adult (46 years)	ChIP-seq H3F3A
+endocrine pancreas male adult (46 years)	ChIP-seq H3K9me3
+endocrine pancreas male adult (46 years)	ChIP-seq REST
+endocrine pancreas male adult (46 years)	ChIP-seq ZFP36
+small intestine male embryo (108 days)	ChIP-seq EGR1
+small intestine male embryo (108 days)	ChIP-seq H2BK15ac
+small intestine male embryo (108 days)	ChIP-seq H3K9ac
+small intestine male embryo (108 days)	ChIP-seq RAD21
+small intestine male embryo (108 days)	ChIP-seq YY1
+mesendoderm originated from H1-hESC	ChIP-seq CHD2
+mesendoderm originated from H1-hESC	ChIP-seq H2BK120ac
+mesendoderm originated from H1-hESC	ChIP-seq H3K79me1
+mesendoderm originated from H1-hESC	ChIP-seq POLR2A
+mesendoderm originated from H1-hESC	ChIP-seq USF1
+hepatocyte originated from H9	ChIP-seq BHLHE40
+hepatocyte originated from H9	ChIP-seq H2AFZ
+hepatocyte originated from H9	ChIP-seq H3K4me2
+hepatocyte originated from H9	ChIP-seq MAZ
+hepatocyte originated from H9	ChIP-seq TBP
+HT1080	CAGE
+HT1080	ChIP-seq GABPA
+HT1080	ChIP-seq H3K4ac
+HT1080	ChIP-seq MAFK
+HT1080	ChIP-seq TAF1
+HT1080	total RNA-seq
+DOHH2	ChIP-seq FOXA1
+DOHH2	ChIP-seq H3K27me3
+DOHH2	ChIP-seq JUND
+DOHH2	ChIP-seq SP1
+DOHH2	polyA depleted RNA-seq
+Peyer's patch male adult (54 years)	ChIP-seq EZH2
+Peyer's patch male adult (54 years)	ChIP-seq H3K23ac
+Peyer's patch male adult (54 years)	ChIP-seq H4K91ac
+Peyer's patch male adult (54 years)	ChIP-seq SIN3A
+Peyer's patch male adult (54 years)	microRNA-seq
+ectodermal cell originated from embryonic stem cell	ChIP-seq EP300
+ectodermal cell originated from embryonic stem cell	ChIP-seq H3K14ac
+ectodermal cell originated from embryonic stem cell	ChIP-seq H4K20me1
+ectodermal cell originated from embryonic stem cell	ChIP-seq RFX5
+ectodermal cell originated from embryonic stem cell	DNase-seq read-depth normalized signal
+H1-hESC nuclear fraction	ChIP-seq ELF1
+H1-hESC nuclear fraction	ChIP-seq H2BK5ac
+H1-hESC nuclear fraction	ChIP-seq H3K9me2
+H1-hESC nuclear fraction	ChIP-seq RCOR1
+H1-hESC nuclear fraction	ChIP-seq ZBTB33
+iPS DF 19.11 male newborn	ChIP-seq CTCF
+iPS DF 19.11 male newborn	ChIP-seq H2BK12ac
+iPS DF 19.11 male newborn	ChIP-seq H3K79me2
+iPS DF 19.11 male newborn	ChIP-seq POLR2AphosphoS5
+iPS DF 19.11 male newborn	ChIP-seq USF2
+keratinocyte female	ChIP-seq CEBPB
+keratinocyte female	ChIP-seq H2AK5ac
+keratinocyte female	ChIP-seq H3K4me3
+keratinocyte female	ChIP-seq NRF1
+keratinocyte female	ChIP-seq TCF12
+tibial nerve female adult (51 year)	ChIP-seq ATF3
+tibial nerve female adult (51 year)	ChIP-seq GTF2F1
+tibial nerve female adult (51 year)	ChIP-seq H3K4me1
+tibial nerve female adult (51 year)	ChIP-seq MAX
+tibial nerve female adult (51 year)	ChIP-seq TARDBP
+esophagus squamous epithelium female adult (51 year)	ATAC-seq
+esophagus squamous epithelium female adult (51 year)	ChIP-seq FOXK2
+esophagus squamous epithelium female adult (51 year)	ChIP-seq H3K36me3
+esophagus squamous epithelium female adult (51 year)	ChIP-seq KDM1A
+esophagus squamous epithelium female adult (51 year)	ChIP-seq SUZ12
+esophagus squamous epithelium female adult (51 year)	small RNA-seq
+right lobe of liver female adult (53 years)	ChIP-seq EZH2phosphoT487
+right lobe of liver female adult (53 years)	ChIP-seq H3K27ac
+right lobe of liver female adult (53 years)	ChIP-seq HDAC2
+right lobe of liver female adult (53 years)	ChIP-seq SMC3
+right lobe of liver female adult (53 years)	polyA RNA-seq
+omental fat pad male adult (54 years)	ChIP-seq ETS1
+omental fat pad male adult (54 years)	ChIP-seq H3K18ac
+omental fat pad male adult (54 years)	ChIP-seq H4K8ac
+omental fat pad male adult (54 years)	ChIP-seq RXRA
+omental fat pad male adult (54 years)	RAMPAGE
+HUES48	ChIP-seq ELK1
+HUES48	ChIP-seq H3F3A
+HUES48	ChIP-seq H3K9me3
+HUES48	ChIP-seq REST
+HUES48	ChIP-seq ZFP36
+psoas muscle male child (3 years)	ChIP-seq EGR1
+psoas muscle male child (3 years)	ChIP-seq H2BK15ac
+psoas muscle male child (3 years)	ChIP-seq H3K9ac
+psoas muscle male child (3 years)	ChIP-seq RAD21
+psoas muscle male child (3 years)	ChIP-seq YY1
+HEK293	ChIP-seq CHD2
+HEK293	ChIP-seq H2BK120ac
+HEK293	ChIP-seq H3K79me1
+HEK293	ChIP-seq POLR2A
+HEK293	ChIP-seq USF1
+esophagus male adult (34 years)	ChIP-seq BHLHE40
+esophagus male adult (34 years)	ChIP-seq H2AFZ
+esophagus male adult (34 years)	ChIP-seq H3K4me2
+esophagus male adult (34 years)	ChIP-seq MAZ
+esophagus male adult (34 years)	ChIP-seq TBP
+neutrophil male	CAGE
+neutrophil male	ChIP-seq GABPA
+neutrophil male	ChIP-seq H3K4ac
+neutrophil male	ChIP-seq MAFK
+neutrophil male	ChIP-seq TAF1
+neutrophil male	total RNA-seq
+neurosphere female embryo (17 weeks) originated from ganglionic eminence	ChIP-seq FOXA1
+neurosphere female embryo (17 weeks) originated from ganglionic eminence	ChIP-seq H3K27me3
+neurosphere female embryo (17 weeks) originated from ganglionic eminence	ChIP-seq JUND
+neurosphere female embryo (17 weeks) originated from ganglionic eminence	ChIP-seq SP1
+neurosphere female embryo (17 weeks) originated from ganglionic eminence	polyA depleted RNA-seq
+SK-N-SH nuclear fraction	ChIP-seq EZH2
+SK-N-SH nuclear fraction	ChIP-seq H3K23ac
+SK-N-SH nuclear fraction	ChIP-seq H4K91ac
+SK-N-SH nuclear fraction	ChIP-seq SIN3A
+SK-N-SH nuclear fraction	microRNA-seq
+lung female embryo (120 days)	ChIP-seq EP300
+lung female embryo (120 days)	ChIP-seq H3K14ac
+lung female embryo (120 days)	ChIP-seq H4K20me1
+lung female embryo (120 days)	ChIP-seq RFX5
+lung female embryo (120 days)	DNase-seq read-depth normalized signal
+GM12892	ChIP-seq ELF1
+GM12892	ChIP-seq H2BK5ac
+GM12892	ChIP-seq H3K9me2
+GM12892	ChIP-seq RCOR1
+GM12892	ChIP-seq ZBTB33
+SK-N-SH cytosolic fraction	ChIP-seq CTCF
+SK-N-SH cytosolic fraction	ChIP-seq H2BK12ac
+SK-N-SH cytosolic fraction	ChIP-seq H3K79me2
+SK-N-SH cytosolic fraction	ChIP-seq POLR2AphosphoS5
+SK-N-SH cytosolic fraction	ChIP-seq USF2
+adrenal gland male adult (34 years)	ChIP-seq CEBPB
+adrenal gland male adult (34 years)	ChIP-seq H2AK5ac
+adrenal gland male adult (34 years)	ChIP-seq H3K4me3
+adrenal gland male adult (34 years)	ChIP-seq NRF1
+adrenal gland male adult (34 years)	ChIP-seq TCF12
+PC-9	ChIP-seq ATF3
+PC-9	ChIP-seq GTF2F1
+PC-9	ChIP-seq H3K4me1
+PC-9	ChIP-seq MAX
+PC-9	ChIP-seq TARDBP
+tongue female embryo (20 weeks) and female embryo (24 weeks)	ATAC-seq
+tongue female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq FOXK2
+tongue female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H3K36me3
+tongue female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq KDM1A
+tongue female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq SUZ12
+tongue female embryo (20 weeks) and female embryo (24 weeks)	small RNA-seq
+omental fat pad male adult (37 years)	ChIP-seq EZH2phosphoT487
+omental fat pad male adult (37 years)	ChIP-seq H3K27ac
+omental fat pad male adult (37 years)	ChIP-seq HDAC2
+omental fat pad male adult (37 years)	ChIP-seq SMC3
+omental fat pad male adult (37 years)	polyA RNA-seq
+transverse colon male adult (37 years)	ChIP-seq ETS1
+transverse colon male adult (37 years)	ChIP-seq H3K18ac
+transverse colon male adult (37 years)	ChIP-seq H4K8ac
+transverse colon male adult (37 years)	ChIP-seq RXRA
+transverse colon male adult (37 years)	RAMPAGE
+foreskin melanocyte male newborn	ChIP-seq ELK1
+foreskin melanocyte male newborn	ChIP-seq H3F3A
+foreskin melanocyte male newborn	ChIP-seq H3K9me3
+foreskin melanocyte male newborn	ChIP-seq REST
+foreskin melanocyte male newborn	ChIP-seq ZFP36
+uterus female adult (53 years)	ChIP-seq EGR1
+uterus female adult (53 years)	ChIP-seq H2BK15ac
+uterus female adult (53 years)	ChIP-seq H3K9ac
+uterus female adult (53 years)	ChIP-seq RAD21
+uterus female adult (53 years)	ChIP-seq YY1
+brain female embryo (17 weeks)	ChIP-seq CHD2
+brain female embryo (17 weeks)	ChIP-seq H2BK120ac
+brain female embryo (17 weeks)	ChIP-seq H3K79me1
+brain female embryo (17 weeks)	ChIP-seq POLR2A
+brain female embryo (17 weeks)	ChIP-seq USF1
+thyroid gland female adult (53 years)	ChIP-seq BHLHE40
+thyroid gland female adult (53 years)	ChIP-seq H2AFZ
+thyroid gland female adult (53 years)	ChIP-seq H3K4me2
+thyroid gland female adult (53 years)	ChIP-seq MAZ
+thyroid gland female adult (53 years)	ChIP-seq TBP
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	CAGE
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	ChIP-seq GABPA
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	ChIP-seq H3K4ac
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	ChIP-seq MAFK
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	ChIP-seq TAF1
+thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)	total RNA-seq
+astrocyte	ChIP-seq FOXA1
+astrocyte	ChIP-seq H3K27me3
+astrocyte	ChIP-seq JUND
+astrocyte	ChIP-seq SP1
+astrocyte	polyA depleted RNA-seq
+cardiac muscle cell	ChIP-seq EZH2
+cardiac muscle cell	ChIP-seq H3K23ac
+cardiac muscle cell	ChIP-seq H4K91ac
+cardiac muscle cell	ChIP-seq SIN3A
+cardiac muscle cell	microRNA-seq
+A549	ChIP-seq EP300
+A549	ChIP-seq H3K14ac
+A549	ChIP-seq H4K20me1
+A549	ChIP-seq RFX5
+A549	DNase-seq read-depth normalized signal
+SU-DHL-6	ChIP-seq ELF1
+SU-DHL-6	ChIP-seq H2BK5ac
+SU-DHL-6	ChIP-seq H3K9me2
+SU-DHL-6	ChIP-seq RCOR1
+SU-DHL-6	ChIP-seq ZBTB33
+sigmoid colon male child (3 years)	ChIP-seq CTCF
+sigmoid colon male child (3 years)	ChIP-seq H2BK12ac
+sigmoid colon male child (3 years)	ChIP-seq H3K79me2
+sigmoid colon male child (3 years)	ChIP-seq POLR2AphosphoS5
+sigmoid colon male child (3 years)	ChIP-seq USF2
+adrenal gland female adult (53 years)	ChIP-seq CEBPB
+adrenal gland female adult (53 years)	ChIP-seq H2AK5ac
+adrenal gland female adult (53 years)	ChIP-seq H3K4me3
+adrenal gland female adult (53 years)	ChIP-seq NRF1
+adrenal gland female adult (53 years)	ChIP-seq TCF12
+DND-41	ChIP-seq ATF3
+DND-41	ChIP-seq GTF2F1
+DND-41	ChIP-seq H3K4me1
+DND-41	ChIP-seq MAX
+DND-41	ChIP-seq TARDBP
+H4	ATAC-seq
+H4	ChIP-seq FOXK2
+H4	ChIP-seq H3K36me3
+H4	ChIP-seq KDM1A
+H4	ChIP-seq SUZ12
+H4	small RNA-seq
+fibroblast of dermis female adult (44 years) and female adult (55 years)	ChIP-seq EZH2phosphoT487
+fibroblast of dermis female adult (44 years) and female adult (55 years)	ChIP-seq H3K27ac
+fibroblast of dermis female adult (44 years) and female adult (55 years)	ChIP-seq HDAC2
+fibroblast of dermis female adult (44 years) and female adult (55 years)	ChIP-seq SMC3
+fibroblast of dermis female adult (44 years) and female adult (55 years)	polyA RNA-seq
+stomach female adult (51 year)	ChIP-seq ETS1
+stomach female adult (51 year)	ChIP-seq H3K18ac
+stomach female adult (51 year)	ChIP-seq H4K8ac
+stomach female adult (51 year)	ChIP-seq RXRA
+stomach female adult (51 year)	RAMPAGE
+ascending aorta female adult (51 year)	ChIP-seq ELK1
+ascending aorta female adult (51 year)	ChIP-seq H3F3A
+ascending aorta female adult (51 year)	ChIP-seq H3K9me3
+ascending aorta female adult (51 year)	ChIP-seq REST
+ascending aorta female adult (51 year)	ChIP-seq ZFP36
+spleen male adult (37 years)	ChIP-seq EGR1
+spleen male adult (37 years)	ChIP-seq H2BK15ac
+spleen male adult (37 years)	ChIP-seq H3K9ac
+spleen male adult (37 years)	ChIP-seq RAD21
+spleen male adult (37 years)	ChIP-seq YY1
+gastroesophageal sphincter male adult (54 years)	ChIP-seq CHD2
+gastroesophageal sphincter male adult (54 years)	ChIP-seq H2BK120ac
+gastroesophageal sphincter male adult (54 years)	ChIP-seq H3K79me1
+gastroesophageal sphincter male adult (54 years)	ChIP-seq POLR2A
+gastroesophageal sphincter male adult (54 years)	ChIP-seq USF1
+endocrine pancreas male adult (45 years)	ChIP-seq BHLHE40
+endocrine pancreas male adult (45 years)	ChIP-seq H2AFZ
+endocrine pancreas male adult (45 years)	ChIP-seq H3K4me2
+endocrine pancreas male adult (45 years)	ChIP-seq MAZ
+endocrine pancreas male adult (45 years)	ChIP-seq TBP
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	CAGE
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq GABPA
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq H3K4ac
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq MAFK
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq TAF1
+frontal cortex female embryo (20 weeks) and male embryo (22 weeks)	total RNA-seq
+MCF-7 nuclear fraction	ChIP-seq FOXA1
+MCF-7 nuclear fraction	ChIP-seq H3K27me3
+MCF-7 nuclear fraction	ChIP-seq JUND
+MCF-7 nuclear fraction	ChIP-seq SP1
+MCF-7 nuclear fraction	polyA depleted RNA-seq
+BJ	ChIP-seq EZH2
+BJ	ChIP-seq H3K23ac
+BJ	ChIP-seq H4K91ac
+BJ	ChIP-seq SIN3A
+BJ	microRNA-seq
+placental epithelial cell female newborn and male newborn	ChIP-seq EP300
+placental epithelial cell female newborn and male newborn	ChIP-seq H3K14ac
+placental epithelial cell female newborn and male newborn	ChIP-seq H4K20me1
+placental epithelial cell female newborn and male newborn	ChIP-seq RFX5
+placental epithelial cell female newborn and male newborn	DNase-seq read-depth normalized signal
+gastroesophageal sphincter female adult (53 years)	ChIP-seq ELF1
+gastroesophageal sphincter female adult (53 years)	ChIP-seq H2BK5ac
+gastroesophageal sphincter female adult (53 years)	ChIP-seq H3K9me2
+gastroesophageal sphincter female adult (53 years)	ChIP-seq RCOR1
+gastroesophageal sphincter female adult (53 years)	ChIP-seq ZBTB33
+SK-MEL-5 nuclear fraction	ChIP-seq CTCF
+SK-MEL-5 nuclear fraction	ChIP-seq H2BK12ac
+SK-MEL-5 nuclear fraction	ChIP-seq H3K79me2
+SK-MEL-5 nuclear fraction	ChIP-seq POLR2AphosphoS5
+SK-MEL-5 nuclear fraction	ChIP-seq USF2
+heart left ventricle female adult (51 year)	ChIP-seq CEBPB
+heart left ventricle female adult (51 year)	ChIP-seq H2AK5ac
+heart left ventricle female adult (51 year)	ChIP-seq H3K4me3
+heart left ventricle female adult (51 year)	ChIP-seq NRF1
+heart left ventricle female adult (51 year)	ChIP-seq TCF12
+pancreas male adult (34 years)	ChIP-seq ATF3
+pancreas male adult (34 years)	ChIP-seq GTF2F1
+pancreas male adult (34 years)	ChIP-seq H3K4me1
+pancreas male adult (34 years)	ChIP-seq MAX
+pancreas male adult (34 years)	ChIP-seq TARDBP
+GM06990	ATAC-seq
+GM06990	ChIP-seq FOXK2
+GM06990	ChIP-seq H3K36me3
+GM06990	ChIP-seq KDM1A
+GM06990	ChIP-seq SUZ12
+GM06990	small RNA-seq
+suprapubic skin female adult (51 year)	ChIP-seq EZH2phosphoT487
+suprapubic skin female adult (51 year)	ChIP-seq H3K27ac
+suprapubic skin female adult (51 year)	ChIP-seq HDAC2
+suprapubic skin female adult (51 year)	ChIP-seq SMC3
+suprapubic skin female adult (51 year)	polyA RNA-seq
+body of pancreas female adult (51 year)	ChIP-seq ETS1
+body of pancreas female adult (51 year)	ChIP-seq H3K18ac
+body of pancreas female adult (51 year)	ChIP-seq H4K8ac
+body of pancreas female adult (51 year)	ChIP-seq RXRA
+body of pancreas female adult (51 year)	RAMPAGE
+GM12878 nucleolus fraction	ChIP-seq ELK1
+GM12878 nucleolus fraction	ChIP-seq H3F3A
+GM12878 nucleolus fraction	ChIP-seq H3K9me3
+GM12878 nucleolus fraction	ChIP-seq REST
+GM12878 nucleolus fraction	ChIP-seq ZFP36
+occipital lobe female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq EGR1
+occipital lobe female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq H2BK15ac
+occipital lobe female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq H3K9ac
+occipital lobe female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq RAD21
+occipital lobe female embryo (20 weeks) and male embryo (22 weeks)	ChIP-seq YY1
+omental fat pad female adult (51 year)	ChIP-seq CHD2
+omental fat pad female adult (51 year)	ChIP-seq H2BK120ac
+omental fat pad female adult (51 year)	ChIP-seq H3K79me1
+omental fat pad female adult (51 year)	ChIP-seq POLR2A
+omental fat pad female adult (51 year)	ChIP-seq USF1
+CD8-positive, alpha-beta T cell	ChIP-seq BHLHE40
+CD8-positive, alpha-beta T cell	ChIP-seq H2AFZ
+CD8-positive, alpha-beta T cell	ChIP-seq H3K4me2
+CD8-positive, alpha-beta T cell	ChIP-seq MAZ
+CD8-positive, alpha-beta T cell	ChIP-seq TBP
+mammary epithelial cell female adult (23 years)	CAGE
+mammary epithelial cell female adult (23 years)	ChIP-seq GABPA
+mammary epithelial cell female adult (23 years)	ChIP-seq H3K4ac
+mammary epithelial cell female adult (23 years)	ChIP-seq MAFK
+mammary epithelial cell female adult (23 years)	ChIP-seq TAF1
+mammary epithelial cell female adult (23 years)	total RNA-seq
+chorionic villus embryo (16 weeks)	ChIP-seq FOXA1
+chorionic villus embryo (16 weeks)	ChIP-seq H3K27me3
+chorionic villus embryo (16 weeks)	ChIP-seq JUND
+chorionic villus embryo (16 weeks)	ChIP-seq SP1
+chorionic villus embryo (16 weeks)	polyA depleted RNA-seq
+B cell male adult (21 year)	ChIP-seq EZH2
+B cell male adult (21 year)	ChIP-seq H3K23ac
+B cell male adult (21 year)	ChIP-seq H4K91ac
+B cell male adult (21 year)	ChIP-seq SIN3A
+B cell male adult (21 year)	microRNA-seq
+stomach male adult (34 years)	ChIP-seq EP300
+stomach male adult (34 years)	ChIP-seq H3K14ac
+stomach male adult (34 years)	ChIP-seq H4K20me1
+stomach male adult (34 years)	ChIP-seq RFX5
+stomach male adult (34 years)	DNase-seq read-depth normalized signal
+gastrocnemius medialis male adult (54 years)	ChIP-seq ELF1
+gastrocnemius medialis male adult (54 years)	ChIP-seq H2BK5ac
+gastrocnemius medialis male adult (54 years)	ChIP-seq H3K9me2
+gastrocnemius medialis male adult (54 years)	ChIP-seq RCOR1
+gastrocnemius medialis male adult (54 years)	ChIP-seq ZBTB33
+SK-N-DZ nuclear fraction	ChIP-seq CTCF
+SK-N-DZ nuclear fraction	ChIP-seq H2BK12ac
+SK-N-DZ nuclear fraction	ChIP-seq H3K79me2
+SK-N-DZ nuclear fraction	ChIP-seq POLR2AphosphoS5
+SK-N-DZ nuclear fraction	ChIP-seq USF2
+upper lobe of left lung female adult (51 year)	ChIP-seq CEBPB
+upper lobe of left lung female adult (51 year)	ChIP-seq H2AK5ac
+upper lobe of left lung female adult (51 year)	ChIP-seq H3K4me3
+upper lobe of left lung female adult (51 year)	ChIP-seq NRF1
+upper lobe of left lung female adult (51 year)	ChIP-seq TCF12
+T-cell	ChIP-seq ATF3
+T-cell	ChIP-seq GTF2F1
+T-cell	ChIP-seq H3K4me1
+T-cell	ChIP-seq MAX
+T-cell	ChIP-seq TARDBP
+kidney epithelial cell	ATAC-seq
+kidney epithelial cell	ChIP-seq FOXK2
+kidney epithelial cell	ChIP-seq H3K36me3
+kidney epithelial cell	ChIP-seq KDM1A
+kidney epithelial cell	ChIP-seq SUZ12
+kidney epithelial cell	small RNA-seq
+upper lobe of left lung male adult (37 years)	ChIP-seq EZH2phosphoT487
+upper lobe of left lung male adult (37 years)	ChIP-seq H3K27ac
+upper lobe of left lung male adult (37 years)	ChIP-seq HDAC2
+upper lobe of left lung male adult (37 years)	ChIP-seq SMC3
+upper lobe of left lung male adult (37 years)	polyA RNA-seq
+subcutaneous preadipocyte female adult (62 years) and male adult (65 years)	ChIP-seq ETS1
+subcutaneous preadipocyte female adult (62 years) and male adult (65 years)	ChIP-seq H3K18ac
+subcutaneous preadipocyte female adult (62 years) and male adult (65 years)	ChIP-seq H4K8ac
+subcutaneous preadipocyte female adult (62 years) and male adult (65 years)	ChIP-seq RXRA
+subcutaneous preadipocyte female adult (62 years) and male adult (65 years)	RAMPAGE
+chorionic villus female embryo (40 weeks)	ChIP-seq ELK1
+chorionic villus female embryo (40 weeks)	ChIP-seq H3F3A
+chorionic villus female embryo (40 weeks)	ChIP-seq H3K9me3
+chorionic villus female embryo (40 weeks)	ChIP-seq REST
+chorionic villus female embryo (40 weeks)	ChIP-seq ZFP36
+K562 nucleolus fraction	ChIP-seq EGR1
+K562 nucleolus fraction	ChIP-seq H2BK15ac
+K562 nucleolus fraction	ChIP-seq H3K9ac
+K562 nucleolus fraction	ChIP-seq RAD21
+K562 nucleolus fraction	ChIP-seq YY1
+tibial nerve male adult (37 years)	ChIP-seq CHD2
+tibial nerve male adult (37 years)	ChIP-seq H2BK120ac
+tibial nerve male adult (37 years)	ChIP-seq H3K79me1
+tibial nerve male adult (37 years)	ChIP-seq POLR2A
+tibial nerve male adult (37 years)	ChIP-seq USF1
+kidney female embryo (120 days)	ChIP-seq BHLHE40
+kidney female embryo (120 days)	ChIP-seq H2AFZ
+kidney female embryo (120 days)	ChIP-seq H3K4me2
+kidney female embryo (120 days)	ChIP-seq MAZ
+kidney female embryo (120 days)	ChIP-seq TBP
+spleen male adult (34 years)	CAGE
+spleen male adult (34 years)	ChIP-seq GABPA
+spleen male adult (34 years)	ChIP-seq H3K4ac
+spleen male adult (34 years)	ChIP-seq MAFK
+spleen male adult (34 years)	ChIP-seq TAF1
+spleen male adult (34 years)	total RNA-seq
+HeLa-S3 cytosolic fraction	ChIP-seq FOXA1
+HeLa-S3 cytosolic fraction	ChIP-seq H3K27me3
+HeLa-S3 cytosolic fraction	ChIP-seq JUND
+HeLa-S3 cytosolic fraction	ChIP-seq SP1
+HeLa-S3 cytosolic fraction	polyA depleted RNA-seq
+CD8-positive, alpha-beta T cell male adult (21 year)	ChIP-seq EZH2
+CD8-positive, alpha-beta T cell male adult (21 year)	ChIP-seq H3K23ac
+CD8-positive, alpha-beta T cell male adult (21 year)	ChIP-seq H4K91ac
+CD8-positive, alpha-beta T cell male adult (21 year)	ChIP-seq SIN3A
+CD8-positive, alpha-beta T cell male adult (21 year)	microRNA-seq
+iPS DF 6.9 male newborn	ChIP-seq EP300
+iPS DF 6.9 male newborn	ChIP-seq H3K14ac
+iPS DF 6.9 male newborn	ChIP-seq H4K20me1
+iPS DF 6.9 male newborn	ChIP-seq RFX5
+iPS DF 6.9 male newborn	DNase-seq read-depth normalized signal
+small intestine male adult (34 years)	ChIP-seq ELF1
+small intestine male adult (34 years)	ChIP-seq H2BK5ac
+small intestine male adult (34 years)	ChIP-seq H3K9me2
+small intestine male adult (34 years)	ChIP-seq RCOR1
+small intestine male adult (34 years)	ChIP-seq ZBTB33
+placenta female embryo (113 days)	ChIP-seq CTCF
+placenta female embryo (113 days)	ChIP-seq H2BK12ac
+placenta female embryo (113 days)	ChIP-seq H3K79me2
+placenta female embryo (113 days)	ChIP-seq POLR2AphosphoS5
+placenta female embryo (113 days)	ChIP-seq USF2
+HepG2 cytosolic fraction	ChIP-seq CEBPB
+HepG2 cytosolic fraction	ChIP-seq H2AK5ac
+HepG2 cytosolic fraction	ChIP-seq H3K4me3
+HepG2 cytosolic fraction	ChIP-seq NRF1
+HepG2 cytosolic fraction	ChIP-seq TCF12
+spleen male adult (54 years)	ChIP-seq ATF3
+spleen male adult (54 years)	ChIP-seq GTF2F1
+spleen male adult (54 years)	ChIP-seq H3K4me1
+spleen male adult (54 years)	ChIP-seq MAX
+spleen male adult (54 years)	ChIP-seq TARDBP
+prostate gland male adult (54 years)	ATAC-seq
+prostate gland male adult (54 years)	ChIP-seq FOXK2
+prostate gland male adult (54 years)	ChIP-seq H3K36me3
+prostate gland male adult (54 years)	ChIP-seq KDM1A
+prostate gland male adult (54 years)	ChIP-seq SUZ12
+prostate gland male adult (54 years)	small RNA-seq
+substantia nigra male adult (81 year)	ChIP-seq EZH2phosphoT487
+substantia nigra male adult (81 year)	ChIP-seq H3K27ac
+substantia nigra male adult (81 year)	ChIP-seq HDAC2
+substantia nigra male adult (81 year)	ChIP-seq SMC3
+substantia nigra male adult (81 year)	polyA RNA-seq
+right atrium auricular region female adult (51 year)	ChIP-seq ETS1
+right atrium auricular region female adult (51 year)	ChIP-seq H3K18ac
+right atrium auricular region female adult (51 year)	ChIP-seq H4K8ac
+right atrium auricular region female adult (51 year)	ChIP-seq RXRA
+right atrium auricular region female adult (51 year)	RAMPAGE
+chorionic villus male embryo (16 weeks)	ChIP-seq ELK1
+chorionic villus male embryo (16 weeks)	ChIP-seq H3F3A
+chorionic villus male embryo (16 weeks)	ChIP-seq H3K9me3
+chorionic villus male embryo (16 weeks)	ChIP-seq REST
+chorionic villus male embryo (16 weeks)	ChIP-seq ZFP36
+stomach male adult (54 years)	ChIP-seq EGR1
+stomach male adult (54 years)	ChIP-seq H2BK15ac
+stomach male adult (54 years)	ChIP-seq H3K9ac
+stomach male adult (54 years)	ChIP-seq RAD21
+stomach male adult (54 years)	ChIP-seq YY1
+NCI-H460 nuclear fraction	ChIP-seq CHD2
+NCI-H460 nuclear fraction	ChIP-seq H2BK120ac
+NCI-H460 nuclear fraction	ChIP-seq H3K79me1
+NCI-H460 nuclear fraction	ChIP-seq POLR2A
+NCI-H460 nuclear fraction	ChIP-seq USF1
+adrenal gland male adult (54 years)	ChIP-seq BHLHE40
+adrenal gland male adult (54 years)	ChIP-seq H2AFZ
+adrenal gland male adult (54 years)	ChIP-seq H3K4me2
+adrenal gland male adult (54 years)	ChIP-seq MAZ
+adrenal gland male adult (54 years)	ChIP-seq TBP
+SK-MEL-5	CAGE
+SK-MEL-5	ChIP-seq GABPA
+SK-MEL-5	ChIP-seq H3K4ac
+SK-MEL-5	ChIP-seq MAFK
+SK-MEL-5	ChIP-seq TAF1
+SK-MEL-5	total RNA-seq
+gastrocnemius medialis female adult (51 year)	ChIP-seq FOXA1
+gastrocnemius medialis female adult (51 year)	ChIP-seq H3K27me3
+gastrocnemius medialis female adult (51 year)	ChIP-seq JUND
+gastrocnemius medialis female adult (51 year)	ChIP-seq SP1
+gastrocnemius medialis female adult (51 year)	polyA depleted RNA-seq
+breast epithelium female adult (51 year)	ChIP-seq EZH2
+breast epithelium female adult (51 year)	ChIP-seq H3K23ac
+breast epithelium female adult (51 year)	ChIP-seq H4K91ac
+breast epithelium female adult (51 year)	ChIP-seq SIN3A
+breast epithelium female adult (51 year)	microRNA-seq
+A549 treated with 0.02% ethanol for 1 hour	ChIP-seq EP300
+A549 treated with 0.02% ethanol for 1 hour	ChIP-seq H3K14ac
+A549 treated with 0.02% ethanol for 1 hour	ChIP-seq H4K20me1
+A549 treated with 0.02% ethanol for 1 hour	ChIP-seq RFX5
+A549 treated with 0.02% ethanol for 1 hour	DNase-seq read-depth normalized signal
+fibroblast of breast female adult (26 years)	ChIP-seq ELF1
+fibroblast of breast female adult (26 years)	ChIP-seq H2BK5ac
+fibroblast of breast female adult (26 years)	ChIP-seq H3K9me2
+fibroblast of breast female adult (26 years)	ChIP-seq RCOR1
+fibroblast of breast female adult (26 years)	ChIP-seq ZBTB33
+temporal lobe female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq CTCF
+temporal lobe female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H2BK12ac
+temporal lobe female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H3K79me2
+temporal lobe female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq POLR2AphosphoS5
+temporal lobe female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq USF2
+GM23248	ChIP-seq CEBPB
+GM23248	ChIP-seq H2AK5ac
+GM23248	ChIP-seq H3K4me3
+GM23248	ChIP-seq NRF1
+GM23248	ChIP-seq TCF12
+placental basal plate male embryo (38 weeks)	ChIP-seq ATF3
+placental basal plate male embryo (38 weeks)	ChIP-seq GTF2F1
+placental basal plate male embryo (38 weeks)	ChIP-seq H3K4me1
+placental basal plate male embryo (38 weeks)	ChIP-seq MAX
+placental basal plate male embryo (38 weeks)	ChIP-seq TARDBP
+thyroid gland male adult (54 years)	ATAC-seq
+thyroid gland male adult (54 years)	ChIP-seq FOXK2
+thyroid gland male adult (54 years)	ChIP-seq H3K36me3
+thyroid gland male adult (54 years)	ChIP-seq KDM1A
+thyroid gland male adult (54 years)	ChIP-seq SUZ12
+thyroid gland male adult (54 years)	small RNA-seq
+hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)	ChIP-seq EZH2phosphoT487
+hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)	ChIP-seq H3K27ac
+hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)	ChIP-seq HDAC2
+hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)	ChIP-seq SMC3
+hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)	polyA RNA-seq
+small intestine male child (3 years)	ChIP-seq ETS1
+small intestine male child (3 years)	ChIP-seq H3K18ac
+small intestine male child (3 years)	ChIP-seq H4K8ac
+small intestine male child (3 years)	ChIP-seq RXRA
+small intestine male child (3 years)	RAMPAGE
+MCF-7 cytosolic fraction	ChIP-seq ELK1
+MCF-7 cytosolic fraction	ChIP-seq H3F3A
+MCF-7 cytosolic fraction	ChIP-seq H3K9me3
+MCF-7 cytosolic fraction	ChIP-seq REST
+MCF-7 cytosolic fraction	ChIP-seq ZFP36
+suprapubic skin male adult (37 years)	ChIP-seq EGR1
+suprapubic skin male adult (37 years)	ChIP-seq H2BK15ac
+suprapubic skin male adult (37 years)	ChIP-seq H3K9ac
+suprapubic skin male adult (37 years)	ChIP-seq RAD21
+suprapubic skin male adult (37 years)	ChIP-seq YY1
+H7-hESC	ChIP-seq CHD2
+H7-hESC	ChIP-seq H2BK120ac
+H7-hESC	ChIP-seq H3K79me1
+H7-hESC	ChIP-seq POLR2A
+H7-hESC	ChIP-seq USF1
+mesenchymal stem cell originated from H1-hESC	ChIP-seq BHLHE40
+mesenchymal stem cell originated from H1-hESC	ChIP-seq H2AFZ
+mesenchymal stem cell originated from H1-hESC	ChIP-seq H3K4me2
+mesenchymal stem cell originated from H1-hESC	ChIP-seq MAZ
+mesenchymal stem cell originated from H1-hESC	ChIP-seq TBP
+body of pancreas female adult (53 years)	CAGE
+body of pancreas female adult (53 years)	ChIP-seq GABPA
+body of pancreas female adult (53 years)	ChIP-seq H3K4ac
+body of pancreas female adult (53 years)	ChIP-seq MAFK
+body of pancreas female adult (53 years)	ChIP-seq TAF1
+body of pancreas female adult (53 years)	total RNA-seq
+skeletal muscle tissue female embryo (19 weeks) and male embryo (22 weeks)	ChIP-seq FOXA1
+skeletal muscle tissue female embryo (19 weeks) and male embryo (22 weeks)	ChIP-seq H3K27me3
+skeletal muscle tissue female embryo (19 weeks) and male embryo (22 weeks)	ChIP-seq JUND
+skeletal muscle tissue female embryo (19 weeks) and male embryo (22 weeks)	ChIP-seq SP1
+skeletal muscle tissue female embryo (19 weeks) and male embryo (22 weeks)	polyA depleted RNA-seq
+transverse colon female adult (51 year)	ChIP-seq EZH2
+transverse colon female adult (51 year)	ChIP-seq H3K23ac
+transverse colon female adult (51 year)	ChIP-seq H4K91ac
+transverse colon female adult (51 year)	ChIP-seq SIN3A
+transverse colon female adult (51 year)	microRNA-seq
+AG04450	ChIP-seq EP300
+AG04450	ChIP-seq H3K14ac
+AG04450	ChIP-seq H4K20me1
+AG04450	ChIP-seq RFX5
+AG04450	DNase-seq read-depth normalized signal
+cingulate gyrus female adult (75 years)	ChIP-seq ELF1
+cingulate gyrus female adult (75 years)	ChIP-seq H2BK5ac
+cingulate gyrus female adult (75 years)	ChIP-seq H3K9me2
+cingulate gyrus female adult (75 years)	ChIP-seq RCOR1
+cingulate gyrus female adult (75 years)	ChIP-seq ZBTB33
+skeletal muscle tissue male adult (54 years)	ChIP-seq CTCF
+skeletal muscle tissue male adult (54 years)	ChIP-seq H2BK12ac
+skeletal muscle tissue male adult (54 years)	ChIP-seq H3K79me2
+skeletal muscle tissue male adult (54 years)	ChIP-seq POLR2AphosphoS5
+skeletal muscle tissue male adult (54 years)	ChIP-seq USF2
+muscle layer of colon female adult (56 years)	ChIP-seq CEBPB
+muscle layer of colon female adult (56 years)	ChIP-seq H2AK5ac
+muscle layer of colon female adult (56 years)	ChIP-seq H3K4me3
+muscle layer of colon female adult (56 years)	ChIP-seq NRF1
+muscle layer of colon female adult (56 years)	ChIP-seq TCF12
+cingulate gyrus male adult (81 year)	ChIP-seq ATF3
+cingulate gyrus male adult (81 year)	ChIP-seq GTF2F1
+cingulate gyrus male adult (81 year)	ChIP-seq H3K4me1
+cingulate gyrus male adult (81 year)	ChIP-seq MAX
+cingulate gyrus male adult (81 year)	ChIP-seq TARDBP
+gastroesophageal sphincter male adult (37 years)	ATAC-seq
+gastroesophageal sphincter male adult (37 years)	ChIP-seq FOXK2
+gastroesophageal sphincter male adult (37 years)	ChIP-seq H3K36me3
+gastroesophageal sphincter male adult (37 years)	ChIP-seq KDM1A
+gastroesophageal sphincter male adult (37 years)	ChIP-seq SUZ12
+gastroesophageal sphincter male adult (37 years)	small RNA-seq
+mucosa of rectum female adult (61 year)	ChIP-seq EZH2phosphoT487
+mucosa of rectum female adult (61 year)	ChIP-seq H3K27ac
+mucosa of rectum female adult (61 year)	ChIP-seq HDAC2
+mucosa of rectum female adult (61 year)	ChIP-seq SMC3
+mucosa of rectum female adult (61 year)	polyA RNA-seq
+liver female child (4 years)	ChIP-seq ETS1
+liver female child (4 years)	ChIP-seq H3K18ac
+liver female child (4 years)	ChIP-seq H4K8ac
+liver female child (4 years)	ChIP-seq RXRA
+liver female child (4 years)	RAMPAGE
+UCSF-4	ChIP-seq ELK1
+UCSF-4	ChIP-seq H3F3A
+UCSF-4	ChIP-seq H3K9me3
+UCSF-4	ChIP-seq REST
+UCSF-4	ChIP-seq ZFP36
+stomach female embryo (96 days)	ChIP-seq EGR1
+stomach female embryo (96 days)	ChIP-seq H2BK15ac
+stomach female embryo (96 days)	ChIP-seq H3K9ac
+stomach female embryo (96 days)	ChIP-seq RAD21
+stomach female embryo (96 days)	ChIP-seq YY1
+mesenchymal stem cell of the bone marrow	ChIP-seq CHD2
+mesenchymal stem cell of the bone marrow	ChIP-seq H2BK120ac
+mesenchymal stem cell of the bone marrow	ChIP-seq H3K79me1
+mesenchymal stem cell of the bone marrow	ChIP-seq POLR2A
+mesenchymal stem cell of the bone marrow	ChIP-seq USF1
+neuron originated from H9	ChIP-seq BHLHE40
+neuron originated from H9	ChIP-seq H2AFZ
+neuron originated from H9	ChIP-seq H3K4me2
+neuron originated from H9	ChIP-seq MAZ
+neuron originated from H9	ChIP-seq TBP
+mesodermal cell originated from HUES64	CAGE
+mesodermal cell originated from HUES64	ChIP-seq GABPA
+mesodermal cell originated from HUES64	ChIP-seq H3K4ac
+mesodermal cell originated from HUES64	ChIP-seq MAFK
+mesodermal cell originated from HUES64	ChIP-seq TAF1
+mesodermal cell originated from HUES64	total RNA-seq
+endodermal cell originated from HUES64	ChIP-seq FOXA1
+endodermal cell originated from HUES64	ChIP-seq H3K27me3
+endodermal cell originated from HUES64	ChIP-seq JUND
+endodermal cell originated from HUES64	ChIP-seq SP1
+endodermal cell originated from HUES64	polyA depleted RNA-seq
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	ChIP-seq EZH2
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	ChIP-seq H3K23ac
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	ChIP-seq H4K91ac
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	ChIP-seq SIN3A
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	microRNA-seq
+peripheral blood mononuclear cell male adult (32 years)	ChIP-seq EP300
+peripheral blood mononuclear cell male adult (32 years)	ChIP-seq H3K14ac
+peripheral blood mononuclear cell male adult (32 years)	ChIP-seq H4K20me1
+peripheral blood mononuclear cell male adult (32 years)	ChIP-seq RFX5
+peripheral blood mononuclear cell male adult (32 years)	DNase-seq read-depth normalized signal
+Caco-2	ChIP-seq ELF1
+Caco-2	ChIP-seq H2BK5ac
+Caco-2	ChIP-seq H3K9me2
+Caco-2	ChIP-seq RCOR1
+Caco-2	ChIP-seq ZBTB33
+CD4-positive, alpha-beta memory T cell	ChIP-seq CTCF
+CD4-positive, alpha-beta memory T cell	ChIP-seq H2BK12ac
+CD4-positive, alpha-beta memory T cell	ChIP-seq H3K79me2
+CD4-positive, alpha-beta memory T cell	ChIP-seq POLR2AphosphoS5
+CD4-positive, alpha-beta memory T cell	ChIP-seq USF2
+Peyer's patch male adult (37 years)	ChIP-seq CEBPB
+Peyer's patch male adult (37 years)	ChIP-seq H2AK5ac
+Peyer's patch male adult (37 years)	ChIP-seq H3K4me3
+Peyer's patch male adult (37 years)	ChIP-seq NRF1
+Peyer's patch male adult (37 years)	ChIP-seq TCF12
+common myeloid progenitor, CD34-positive female adult (33 years)	ChIP-seq ATF3
+common myeloid progenitor, CD34-positive female adult (33 years)	ChIP-seq GTF2F1
+common myeloid progenitor, CD34-positive female adult (33 years)	ChIP-seq H3K4me1
+common myeloid progenitor, CD34-positive female adult (33 years)	ChIP-seq MAX
+common myeloid progenitor, CD34-positive female adult (33 years)	ChIP-seq TARDBP
+skeletal muscle tissue female adult (72 years)	ATAC-seq
+skeletal muscle tissue female adult (72 years)	ChIP-seq FOXK2
+skeletal muscle tissue female adult (72 years)	ChIP-seq H3K36me3
+skeletal muscle tissue female adult (72 years)	ChIP-seq KDM1A
+skeletal muscle tissue female adult (72 years)	ChIP-seq SUZ12
+skeletal muscle tissue female adult (72 years)	small RNA-seq
+spleen female adult (51 year)	ChIP-seq EZH2phosphoT487
+spleen female adult (51 year)	ChIP-seq H3K27ac
+spleen female adult (51 year)	ChIP-seq HDAC2
+spleen female adult (51 year)	ChIP-seq SMC3
+spleen female adult (51 year)	polyA RNA-seq
+muscle layer of colon female adult (77 years)	ChIP-seq ETS1
+muscle layer of colon female adult (77 years)	ChIP-seq H3K18ac
+muscle layer of colon female adult (77 years)	ChIP-seq H4K8ac
+muscle layer of colon female adult (77 years)	ChIP-seq RXRA
+muscle layer of colon female adult (77 years)	RAMPAGE
+peripheral blood mononuclear cell female adult (28 years)	ChIP-seq ELK1
+peripheral blood mononuclear cell female adult (28 years)	ChIP-seq H3F3A
+peripheral blood mononuclear cell female adult (28 years)	ChIP-seq H3K9me3
+peripheral blood mononuclear cell female adult (28 years)	ChIP-seq REST
+peripheral blood mononuclear cell female adult (28 years)	ChIP-seq ZFP36
+caudate nucleus male adult (81 year)	ChIP-seq EGR1
+caudate nucleus male adult (81 year)	ChIP-seq H2BK15ac
+caudate nucleus male adult (81 year)	ChIP-seq H3K9ac
+caudate nucleus male adult (81 year)	ChIP-seq RAD21
+caudate nucleus male adult (81 year)	ChIP-seq YY1
+fibroblast of dermis	ChIP-seq CHD2
+fibroblast of dermis	ChIP-seq H2BK120ac
+fibroblast of dermis	ChIP-seq H3K79me1
+fibroblast of dermis	ChIP-seq POLR2A
+fibroblast of dermis	ChIP-seq USF1
+transverse colon male adult (54 years)	ChIP-seq BHLHE40
+transverse colon male adult (54 years)	ChIP-seq H2AFZ
+transverse colon male adult (54 years)	ChIP-seq H3K4me2
+transverse colon male adult (54 years)	ChIP-seq MAZ
+transverse colon male adult (54 years)	ChIP-seq TBP
+effector memory CD4-positive, alpha-beta T cell	CAGE
+effector memory CD4-positive, alpha-beta T cell	ChIP-seq GABPA
+effector memory CD4-positive, alpha-beta T cell	ChIP-seq H3K4ac
+effector memory CD4-positive, alpha-beta T cell	ChIP-seq MAFK
+effector memory CD4-positive, alpha-beta T cell	ChIP-seq TAF1
+effector memory CD4-positive, alpha-beta T cell	total RNA-seq
+HeLa-S3 G1b phase	ChIP-seq FOXA1
+HeLa-S3 G1b phase	ChIP-seq H3K27me3
+HeLa-S3 G1b phase	ChIP-seq JUND
+HeLa-S3 G1b phase	ChIP-seq SP1
+HeLa-S3 G1b phase	polyA depleted RNA-seq
+mesenchymal stem cell of Wharton's jelly	ChIP-seq EZH2
+mesenchymal stem cell of Wharton's jelly	ChIP-seq H3K23ac
+mesenchymal stem cell of Wharton's jelly	ChIP-seq H4K91ac
+mesenchymal stem cell of Wharton's jelly	ChIP-seq SIN3A
+mesenchymal stem cell of Wharton's jelly	microRNA-seq
+myoepithelial cell of mammary gland female adult (36 years)	ChIP-seq EP300
+myoepithelial cell of mammary gland female adult (36 years)	ChIP-seq H3K14ac
+myoepithelial cell of mammary gland female adult (36 years)	ChIP-seq H4K20me1
+myoepithelial cell of mammary gland female adult (36 years)	ChIP-seq RFX5
+myoepithelial cell of mammary gland female adult (36 years)	DNase-seq read-depth normalized signal
+NT2/D1	ChIP-seq ELF1
+NT2/D1	ChIP-seq H2BK5ac
+NT2/D1	ChIP-seq H3K9me2
+NT2/D1	ChIP-seq RCOR1
+NT2/D1	ChIP-seq ZBTB33
+mucosa of stomach male adult (59 years)	ChIP-seq CTCF
+mucosa of stomach male adult (59 years)	ChIP-seq H2BK12ac
+mucosa of stomach male adult (59 years)	ChIP-seq H3K79me2
+mucosa of stomach male adult (59 years)	ChIP-seq POLR2AphosphoS5
+mucosa of stomach male adult (59 years)	ChIP-seq USF2
+naive thymus-derived CD4-positive, alpha-beta T cell	ChIP-seq CEBPB
+naive thymus-derived CD4-positive, alpha-beta T cell	ChIP-seq H2AK5ac
+naive thymus-derived CD4-positive, alpha-beta T cell	ChIP-seq H3K4me3
+naive thymus-derived CD4-positive, alpha-beta T cell	ChIP-seq NRF1
+naive thymus-derived CD4-positive, alpha-beta T cell	ChIP-seq TCF12
+angular gyrus female adult (75 years)	ChIP-seq ATF3
+angular gyrus female adult (75 years)	ChIP-seq GTF2F1
+angular gyrus female adult (75 years)	ChIP-seq H3K4me1
+angular gyrus female adult (75 years)	ChIP-seq MAX
+angular gyrus female adult (75 years)	ChIP-seq TARDBP
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	ATAC-seq
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	ChIP-seq FOXK2
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	ChIP-seq H3K36me3
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	ChIP-seq KDM1A
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	ChIP-seq SUZ12
+subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)	small RNA-seq
+lower leg skin female adult (51 year)	ChIP-seq EZH2phosphoT487
+lower leg skin female adult (51 year)	ChIP-seq H3K27ac
+lower leg skin female adult (51 year)	ChIP-seq HDAC2
+lower leg skin female adult (51 year)	ChIP-seq SMC3
+lower leg skin female adult (51 year)	polyA RNA-seq
+adrenal gland female adult (51 year)	ChIP-seq ETS1
+adrenal gland female adult (51 year)	ChIP-seq H3K18ac
+adrenal gland female adult (51 year)	ChIP-seq H4K8ac
+adrenal gland female adult (51 year)	ChIP-seq RXRA
+adrenal gland female adult (51 year)	RAMPAGE
+large intestine male embryo (108 days)	ChIP-seq ELK1
+large intestine male embryo (108 days)	ChIP-seq H3F3A
+large intestine male embryo (108 days)	ChIP-seq H3K9me3
+large intestine male embryo (108 days)	ChIP-seq REST
+large intestine male embryo (108 days)	ChIP-seq ZFP36
+pancreas female adult (30 years)	ChIP-seq EGR1
+pancreas female adult (30 years)	ChIP-seq H2BK15ac
+pancreas female adult (30 years)	ChIP-seq H3K9ac
+pancreas female adult (30 years)	ChIP-seq RAD21
+pancreas female adult (30 years)	ChIP-seq YY1
+testis male adult (54 years)	ChIP-seq CHD2
+testis male adult (54 years)	ChIP-seq H2BK120ac
+testis male adult (54 years)	ChIP-seq H3K79me1
+testis male adult (54 years)	ChIP-seq POLR2A
+testis male adult (54 years)	ChIP-seq USF1
+aorta female adult (30 years)	ChIP-seq BHLHE40
+aorta female adult (30 years)	ChIP-seq H2AFZ
+aorta female adult (30 years)	ChIP-seq H3K4me2
+aorta female adult (30 years)	ChIP-seq MAZ
+aorta female adult (30 years)	ChIP-seq TBP
+suprapubic skin female adult (53 years)	CAGE
+suprapubic skin female adult (53 years)	ChIP-seq GABPA
+suprapubic skin female adult (53 years)	ChIP-seq H3K4ac
+suprapubic skin female adult (53 years)	ChIP-seq MAFK
+suprapubic skin female adult (53 years)	ChIP-seq TAF1
+suprapubic skin female adult (53 years)	total RNA-seq
+subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)	ChIP-seq FOXA1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)	ChIP-seq H3K27me3
+subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)	ChIP-seq JUND
+subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)	ChIP-seq SP1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)	polyA depleted RNA-seq
+thoracic aorta male adult (37 years)	ChIP-seq EZH2
+thoracic aorta male adult (37 years)	ChIP-seq H3K23ac
+thoracic aorta male adult (37 years)	ChIP-seq H4K91ac
+thoracic aorta male adult (37 years)	ChIP-seq SIN3A
+thoracic aorta male adult (37 years)	microRNA-seq
+trophoblast female embryo (40 weeks)	ChIP-seq EP300
+trophoblast female embryo (40 weeks)	ChIP-seq H3K14ac
+trophoblast female embryo (40 weeks)	ChIP-seq H4K20me1
+trophoblast female embryo (40 weeks)	ChIP-seq RFX5
+trophoblast female embryo (40 weeks)	DNase-seq read-depth normalized signal
+SK-MEL-5 cytosolic fraction	ChIP-seq ELF1
+SK-MEL-5 cytosolic fraction	ChIP-seq H2BK5ac
+SK-MEL-5 cytosolic fraction	ChIP-seq H3K9me2
+SK-MEL-5 cytosolic fraction	ChIP-seq RCOR1
+SK-MEL-5 cytosolic fraction	ChIP-seq ZBTB33
+lung female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq CTCF
+lung female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H2BK12ac
+lung female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq H3K79me2
+lung female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq POLR2AphosphoS5
+lung female embryo (20 weeks) and female embryo (24 weeks)	ChIP-seq USF2
+thyroid gland female embryo (37 weeks) and female embryo (40 weeks)	ChIP-seq CEBPB
+thyroid gland female embryo (37 weeks) and female embryo (40 weeks)	ChIP-seq H2AK5ac
+thyroid gland female embryo (37 weeks) and female embryo (40 weeks)	ChIP-seq H3K4me3
+thyroid gland female embryo (37 weeks) and female embryo (40 weeks)	ChIP-seq NRF1
+thyroid gland female embryo (37 weeks) and female embryo (40 weeks)	ChIP-seq TCF12
+uterus female embryo (24 weeks) and female embryo (28 weeks)	ChIP-seq ATF3
+uterus female embryo (24 weeks) and female embryo (28 weeks)	ChIP-seq GTF2F1
+uterus female embryo (24 weeks) and female embryo (28 weeks)	ChIP-seq H3K4me1
+uterus female embryo (24 weeks) and female embryo (28 weeks)	ChIP-seq MAX
+uterus female embryo (24 weeks) and female embryo (28 weeks)	ChIP-seq TARDBP
+NCI-H460	ATAC-seq
+NCI-H460	ChIP-seq FOXK2
+NCI-H460	ChIP-seq H3K36me3
+NCI-H460	ChIP-seq KDM1A
+NCI-H460	ChIP-seq SUZ12
+NCI-H460	small RNA-seq
+mammary stem cell	ChIP-seq EZH2phosphoT487
+mammary stem cell	ChIP-seq H3K27ac
+mammary stem cell	ChIP-seq HDAC2
+mammary stem cell	ChIP-seq SMC3
+mammary stem cell	polyA RNA-seq
+SK-N-MC	ChIP-seq ETS1
+SK-N-MC	ChIP-seq H3K18ac
+SK-N-MC	ChIP-seq H4K8ac
+SK-N-MC	ChIP-seq RXRA
+SK-N-MC	RAMPAGE
+NCI-H460 cytosolic fraction	ChIP-seq ELK1
+NCI-H460 cytosolic fraction	ChIP-seq H3F3A
+NCI-H460 cytosolic fraction	ChIP-seq H3K9me3
+NCI-H460 cytosolic fraction	ChIP-seq REST
+NCI-H460 cytosolic fraction	ChIP-seq ZFP36
+thoracic aorta male adult (54 years)	ChIP-seq EGR1
+thoracic aorta male adult (54 years)	ChIP-seq H2BK15ac
+thoracic aorta male adult (54 years)	ChIP-seq H3K9ac
+thoracic aorta male adult (54 years)	ChIP-seq RAD21
+thoracic aorta male adult (54 years)	ChIP-seq YY1
+natural killer cell male adult (21 year)	ChIP-seq CHD2
+natural killer cell male adult (21 year)	ChIP-seq H2BK120ac
+natural killer cell male adult (21 year)	ChIP-seq H3K79me1
+natural killer cell male adult (21 year)	ChIP-seq POLR2A
+natural killer cell male adult (21 year)	ChIP-seq USF1
+iPS-15b female adult (48 years)	ChIP-seq BHLHE40
+iPS-15b female adult (48 years)	ChIP-seq H2AFZ
+iPS-15b female adult (48 years)	ChIP-seq H3K4me2
+iPS-15b female adult (48 years)	ChIP-seq MAZ
+iPS-15b female adult (48 years)	ChIP-seq TBP
+osteoblast female adult (56 years) and male adult (62 years)	CAGE
+osteoblast female adult (56 years) and male adult (62 years)	ChIP-seq GABPA
+osteoblast female adult (56 years) and male adult (62 years)	ChIP-seq H3K4ac
+osteoblast female adult (56 years) and male adult (62 years)	ChIP-seq MAFK
+osteoblast female adult (56 years) and male adult (62 years)	ChIP-seq TAF1
+osteoblast female adult (56 years) and male adult (62 years)	total RNA-seq
+stomach male child (3 years)	ChIP-seq FOXA1
+stomach male child (3 years)	ChIP-seq H3K27me3
+stomach male child (3 years)	ChIP-seq JUND
+stomach male child (3 years)	ChIP-seq SP1
+stomach male child (3 years)	polyA depleted RNA-seq
+liver male adult (31 year)	ChIP-seq EZH2
+liver male adult (31 year)	ChIP-seq H3K23ac
+liver male adult (31 year)	ChIP-seq H4K91ac
+liver male adult (31 year)	ChIP-seq SIN3A
+liver male adult (31 year)	microRNA-seq
+spleen male child (3 years)	ChIP-seq EP300
+spleen male child (3 years)	ChIP-seq H3K14ac
+spleen male child (3 years)	ChIP-seq H4K20me1
+spleen male child (3 years)	ChIP-seq RFX5
+spleen male child (3 years)	DNase-seq read-depth normalized signal
+K562 nuclear fraction	ChIP-seq ELF1
+K562 nuclear fraction	ChIP-seq H2BK5ac
+K562 nuclear fraction	ChIP-seq H3K9me2
+K562 nuclear fraction	ChIP-seq RCOR1
+K562 nuclear fraction	ChIP-seq ZBTB33
+heart female embryo (19 weeks) and female embryo (28 weeks)	ChIP-seq CTCF
+heart female embryo (19 weeks) and female embryo (28 weeks)	ChIP-seq H2BK12ac
+heart female embryo (19 weeks) and female embryo (28 weeks)	ChIP-seq H3K79me2
+heart female embryo (19 weeks) and female embryo (28 weeks)	ChIP-seq POLR2AphosphoS5
+heart female embryo (19 weeks) and female embryo (28 weeks)	ChIP-seq USF2
+adrenal gland male adult (37 years)	ChIP-seq CEBPB
+adrenal gland male adult (37 years)	ChIP-seq H2AK5ac
+adrenal gland male adult (37 years)	ChIP-seq H3K4me3
+adrenal gland male adult (37 years)	ChIP-seq NRF1
+adrenal gland male adult (37 years)	ChIP-seq TCF12
+caudate nucleus female adult (75 years)	ChIP-seq ATF3
+caudate nucleus female adult (75 years)	ChIP-seq GTF2F1
+caudate nucleus female adult (75 years)	ChIP-seq H3K4me1
+caudate nucleus female adult (75 years)	ChIP-seq MAX
+caudate nucleus female adult (75 years)	ChIP-seq TARDBP
+skeletal muscle tissue	ATAC-seq
+skeletal muscle tissue	ChIP-seq FOXK2
+skeletal muscle tissue	ChIP-seq H3K36me3
+skeletal muscle tissue	ChIP-seq KDM1A
+skeletal muscle tissue	ChIP-seq SUZ12
+skeletal muscle tissue	small RNA-seq
+LHCN-M2	ChIP-seq EZH2phosphoT487
+LHCN-M2	ChIP-seq H3K27ac
+LHCN-M2	ChIP-seq HDAC2
+LHCN-M2	ChIP-seq SMC3
+LHCN-M2	polyA RNA-seq
+muscle of trunk female embryo (115 days)	ChIP-seq ETS1
+muscle of trunk female embryo (115 days)	ChIP-seq H3K18ac
+muscle of trunk female embryo (115 days)	ChIP-seq H4K8ac
+muscle of trunk female embryo (115 days)	ChIP-seq RXRA
+muscle of trunk female embryo (115 days)	RAMPAGE
+esophagus muscularis mucosa male adult (54 years)	ChIP-seq ELK1
+esophagus muscularis mucosa male adult (54 years)	ChIP-seq H3F3A
+esophagus muscularis mucosa male adult (54 years)	ChIP-seq H3K9me3
+esophagus muscularis mucosa male adult (54 years)	ChIP-seq REST
+esophagus muscularis mucosa male adult (54 years)	ChIP-seq ZFP36
+middle frontal area 46 male adult (81 year)	ChIP-seq EGR1
+middle frontal area 46 male adult (81 year)	ChIP-seq H2BK15ac
+middle frontal area 46 male adult (81 year)	ChIP-seq H3K9ac
+middle frontal area 46 male adult (81 year)	ChIP-seq RAD21
+middle frontal area 46 male adult (81 year)	ChIP-seq YY1
+thyroid gland male adult (37 years)	ChIP-seq CHD2
+thyroid gland male adult (37 years)	ChIP-seq H2BK120ac
+thyroid gland male adult (37 years)	ChIP-seq H3K79me1
+thyroid gland male adult (37 years)	ChIP-seq POLR2A
+thyroid gland male adult (37 years)	ChIP-seq USF1
+suprapubic skin male adult (54 years)	ChIP-seq BHLHE40
+suprapubic skin male adult (54 years)	ChIP-seq H2AFZ
+suprapubic skin male adult (54 years)	ChIP-seq H3K4me2
+suprapubic skin male adult (54 years)	ChIP-seq MAZ
+suprapubic skin male adult (54 years)	ChIP-seq TBP
+vein endothelial cell male adult (48 years) and male adult (52 years)	CAGE
+vein endothelial cell male adult (48 years) and male adult (52 years)	ChIP-seq GABPA
+vein endothelial cell male adult (48 years) and male adult (52 years)	ChIP-seq H3K4ac
+vein endothelial cell male adult (48 years) and male adult (52 years)	ChIP-seq MAFK
+vein endothelial cell male adult (48 years) and male adult (52 years)	ChIP-seq TAF1
+vein endothelial cell male adult (48 years) and male adult (52 years)	total RNA-seq
+subcutaneous adipose tissue female adult (51 year)	ChIP-seq FOXA1
+subcutaneous adipose tissue female adult (51 year)	ChIP-seq H3K27me3
+subcutaneous adipose tissue female adult (51 year)	ChIP-seq JUND
+subcutaneous adipose tissue female adult (51 year)	ChIP-seq SP1
+subcutaneous adipose tissue female adult (51 year)	polyA depleted RNA-seq
+HUES64	ChIP-seq EZH2
+HUES64	ChIP-seq H3K23ac
+HUES64	ChIP-seq H4K91ac
+HUES64	ChIP-seq SIN3A
+HUES64	microRNA-seq
+Peyer's patch female adult (51 year)	ChIP-seq EP300
+Peyer's patch female adult (51 year)	ChIP-seq H3K14ac
+Peyer's patch female adult (51 year)	ChIP-seq H4K20me1
+Peyer's patch female adult (51 year)	ChIP-seq RFX5
+Peyer's patch female adult (51 year)	DNase-seq read-depth normalized signal
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours	ChIP-seq ELF1
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours	ChIP-seq H2BK5ac
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours	ChIP-seq H3K9me2
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours	ChIP-seq RCOR1
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours	ChIP-seq ZBTB33
+endothelial cell of umbilical vein cytosolic fraction male newborn	ChIP-seq CTCF
+endothelial cell of umbilical vein cytosolic fraction male newborn	ChIP-seq H2BK12ac
+endothelial cell of umbilical vein cytosolic fraction male newborn	ChIP-seq H3K79me2
+endothelial cell of umbilical vein cytosolic fraction male newborn	ChIP-seq POLR2AphosphoS5
+endothelial cell of umbilical vein cytosolic fraction male newborn	ChIP-seq USF2
+A549 treated with 100 nM dexamethasone for 1 hour	ChIP-seq CEBPB
+A549 treated with 100 nM dexamethasone for 1 hour	ChIP-seq H2AK5ac
+A549 treated with 100 nM dexamethasone for 1 hour	ChIP-seq H3K4me3
+A549 treated with 100 nM dexamethasone for 1 hour	ChIP-seq NRF1
+A549 treated with 100 nM dexamethasone for 1 hour	ChIP-seq TCF12
+fibroblast of villous mesenchyme female newborn and male newborn	ChIP-seq ATF3
+fibroblast of villous mesenchyme female newborn and male newborn	ChIP-seq GTF2F1
+fibroblast of villous mesenchyme female newborn and male newborn	ChIP-seq H3K4me1
+fibroblast of villous mesenchyme female newborn and male newborn	ChIP-seq MAX
+fibroblast of villous mesenchyme female newborn and male newborn	ChIP-seq TARDBP
+SJSA1	ATAC-seq
+SJSA1	ChIP-seq FOXK2
+SJSA1	ChIP-seq H3K36me3
+SJSA1	ChIP-seq KDM1A
+SJSA1	ChIP-seq SUZ12
+SJSA1	small RNA-seq
+RPMI-7951	ChIP-seq EZH2phosphoT487
+RPMI-7951	ChIP-seq H3K27ac
+RPMI-7951	ChIP-seq HDAC2
+RPMI-7951	ChIP-seq SMC3
+RPMI-7951	polyA RNA-seq
+common myeloid progenitor, CD34-positive male adult (42 years)	ChIP-seq ETS1
+common myeloid progenitor, CD34-positive male adult (42 years)	ChIP-seq H3K18ac
+common myeloid progenitor, CD34-positive male adult (42 years)	ChIP-seq H4K8ac
+common myeloid progenitor, CD34-positive male adult (42 years)	ChIP-seq RXRA
+common myeloid progenitor, CD34-positive male adult (42 years)	RAMPAGE
+ascending aorta female adult (53 years)	ChIP-seq ELK1
+ascending aorta female adult (53 years)	ChIP-seq H3F3A
+ascending aorta female adult (53 years)	ChIP-seq H3K9me3
+ascending aorta female adult (53 years)	ChIP-seq REST
+ascending aorta female adult (53 years)	ChIP-seq ZFP36
+keratinocyte cytosolic fraction female	ChIP-seq EGR1
+keratinocyte cytosolic fraction female	ChIP-seq H2BK15ac
+keratinocyte cytosolic fraction female	ChIP-seq H3K9ac
+keratinocyte cytosolic fraction female	ChIP-seq RAD21
+keratinocyte cytosolic fraction female	ChIP-seq YY1
+temporal lobe female adult (75 years)	ChIP-seq CHD2
+temporal lobe female adult (75 years)	ChIP-seq H2BK120ac
+temporal lobe female adult (75 years)	ChIP-seq H3K79me1
+temporal lobe female adult (75 years)	ChIP-seq POLR2A
+temporal lobe female adult (75 years)	ChIP-seq USF1
+A673	ChIP-seq BHLHE40
+A673	ChIP-seq H2AFZ
+A673	ChIP-seq H3K4me2
+A673	ChIP-seq MAZ
+A673	ChIP-seq TBP
+sigmoid colon female adult (51 year)	CAGE
+sigmoid colon female adult (51 year)	ChIP-seq GABPA
+sigmoid colon female adult (51 year)	ChIP-seq H3K4ac
+sigmoid colon female adult (51 year)	ChIP-seq MAFK
+sigmoid colon female adult (51 year)	ChIP-seq TAF1
+sigmoid colon female adult (51 year)	total RNA-seq
+spinal cord female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq FOXA1
+spinal cord female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq H3K27me3
+spinal cord female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq JUND
+spinal cord female embryo (24 weeks) and male embryo (22 weeks)	ChIP-seq SP1
+spinal cord female embryo (24 weeks) and male embryo (22 weeks)	polyA depleted RNA-seq
+A172	ChIP-seq EZH2
+A172	ChIP-seq H3K23ac
+A172	ChIP-seq H4K91ac
+A172	ChIP-seq SIN3A
+A172	microRNA-seq
+Daoy	ChIP-seq EP300
+Daoy	ChIP-seq H3K14ac
+Daoy	ChIP-seq H4K20me1
+Daoy	ChIP-seq RFX5
+Daoy	DNase-seq read-depth normalized signal
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq ELF1
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq H2BK5ac
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq H3K9me2
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq RCOR1
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin	ChIP-seq ZBTB33
+stomach smooth muscle male adult (59 years)	ChIP-seq CTCF
+stomach smooth muscle male adult (59 years)	ChIP-seq H2BK12ac
+stomach smooth muscle male adult (59 years)	ChIP-seq H3K79me2
+stomach smooth muscle male adult (59 years)	ChIP-seq POLR2AphosphoS5
+stomach smooth muscle male adult (59 years)	ChIP-seq USF2
+tibial artery female adult (53 years)	ChIP-seq CEBPB
+tibial artery female adult (53 years)	ChIP-seq H2AK5ac
+tibial artery female adult (53 years)	ChIP-seq H3K4me3
+tibial artery female adult (53 years)	ChIP-seq NRF1
+tibial artery female adult (53 years)	ChIP-seq TCF12
+skeletal muscle myoblast	ChIP-seq ATF3
+skeletal muscle myoblast	ChIP-seq GTF2F1
+skeletal muscle myoblast	ChIP-seq H3K4me1
+skeletal muscle myoblast	ChIP-seq MAX
+skeletal muscle myoblast	ChIP-seq TARDBP
+duodenal mucosa male adult (76 years)	ATAC-seq
+duodenal mucosa male adult (76 years)	ChIP-seq FOXK2
+duodenal mucosa male adult (76 years)	ChIP-seq H3K36me3
+duodenal mucosa male adult (76 years)	ChIP-seq KDM1A
+duodenal mucosa male adult (76 years)	ChIP-seq SUZ12
+duodenal mucosa male adult (76 years)	small RNA-seq
+subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)	ChIP-seq EZH2phosphoT487
+subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)	ChIP-seq H3K27ac
+subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)	ChIP-seq HDAC2
+subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)	ChIP-seq SMC3
+subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)	polyA RNA-seq
+iPS-20b male adult (55 years)	ChIP-seq ETS1
+iPS-20b male adult (55 years)	ChIP-seq H3K18ac
+iPS-20b male adult (55 years)	ChIP-seq H4K8ac
+iPS-20b male adult (55 years)	ChIP-seq RXRA
+iPS-20b male adult (55 years)	RAMPAGE
+rectal smooth muscle tissue female adult (50 years)	ChIP-seq ELK1
+rectal smooth muscle tissue female adult (50 years)	ChIP-seq H3F3A
+rectal smooth muscle tissue female adult (50 years)	ChIP-seq H3K9me3
+rectal smooth muscle tissue female adult (50 years)	ChIP-seq REST
+rectal smooth muscle tissue female adult (50 years)	ChIP-seq ZFP36
+duodenal mucosa male adult (59 years)	ChIP-seq EGR1
+duodenal mucosa male adult (59 years)	ChIP-seq H2BK15ac
+duodenal mucosa male adult (59 years)	ChIP-seq H3K9ac
+duodenal mucosa male adult (59 years)	ChIP-seq RAD21
+duodenal mucosa male adult (59 years)	ChIP-seq YY1
+temporal lobe male adult (81 year)	ChIP-seq CHD2
+temporal lobe male adult (81 year)	ChIP-seq H2BK120ac
+temporal lobe male adult (81 year)	ChIP-seq H3K79me1
+temporal lobe male adult (81 year)	ChIP-seq POLR2A
+temporal lobe male adult (81 year)	ChIP-seq USF1
+luminal epithelial cell of mammary gland female adult (33 years)	ChIP-seq BHLHE40
+luminal epithelial cell of mammary gland female adult (33 years)	ChIP-seq H2AFZ
+luminal epithelial cell of mammary gland female adult (33 years)	ChIP-seq H3K4me2
+luminal epithelial cell of mammary gland female adult (33 years)	ChIP-seq MAZ
+luminal epithelial cell of mammary gland female adult (33 years)	ChIP-seq TBP
+omental fat pad female adult (53 years)	CAGE
+omental fat pad female adult (53 years)	ChIP-seq GABPA
+omental fat pad female adult (53 years)	ChIP-seq H3K4ac
+omental fat pad female adult (53 years)	ChIP-seq MAFK
+omental fat pad female adult (53 years)	ChIP-seq TAF1
+omental fat pad female adult (53 years)	total RNA-seq
+Parathyroid adenoma male adult (65 years)	ChIP-seq FOXA1
+Parathyroid adenoma male adult (65 years)	ChIP-seq H3K27me3
+Parathyroid adenoma male adult (65 years)	ChIP-seq JUND
+Parathyroid adenoma male adult (65 years)	ChIP-seq SP1
+Parathyroid adenoma male adult (65 years)	polyA depleted RNA-seq
+adrenal gland male embryo (97 days)	ChIP-seq EZH2
+adrenal gland male embryo (97 days)	ChIP-seq H3K23ac
+adrenal gland male embryo (97 days)	ChIP-seq H4K91ac
+adrenal gland male embryo (97 days)	ChIP-seq SIN3A
+adrenal gland male embryo (97 days)	microRNA-seq
