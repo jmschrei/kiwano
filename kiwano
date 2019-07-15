@@ -6,7 +6,7 @@ import sys
 import numpy
 import argparse
 
-from kiwano import kiwano
+from kiwano.kiwano import kiwano
 
 parser = argparse.ArgumentParser(description="""Kiwano is a tool that
 	prioritizes experiments based on minimizing redundancy.""")
