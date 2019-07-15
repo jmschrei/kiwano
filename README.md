@@ -103,7 +103,7 @@ Due to the similarity matrix taking quadratic space with the number of experimen
 
 ### Python Kiwano
 
-Kiwano is also implemented as a Python function that serves mostly as a wrapper for the facility locatio function.
+Kiwano is also implemented as a Python function that serves mostly as a wrapper for the facility location function.
 
 ```python
 from kiwano import kiwano
