@@ -2,7 +2,7 @@
 
 Kiwano implements an approach for prioritizing epigenomic and transcriptomic characterization in situation that many large consortia have found themselves in where many, but not all, experiments have been performed. This approach relies on submodular optimization, which is the discrete analog of convex optimization, and imputed versions of the experiments. More specifically, a submodular function called facility location is optimized over the similarity matrix derived from imputed experiments. This results in an ordering of experiments based on a notion of how informative performing that experiment is expected to be.
 
-You can read the preprint on bioRxiv here (not yet uploaded).
+You can read the preprint on bioRxiv [here](https://www.biorxiv.org/content/10.1101/708107v1).
 
 Download:
 
